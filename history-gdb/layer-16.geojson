@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.01616, 38.90505]}, "type": "Feature", "properties": {"CITY": "Washington", "OBJECTID": 1, "LONGITUDE": -77.01616, "STATE": "DC", "POP_1860": 61122, "LATITUDE": 38.90505}},
+{"geometry": {"type": "Point", "coordinates": [-77.47458, 37.53105]}, "type": "Feature", "properties": {"CITY": "Richmond", "OBJECTID": 2, "LONGITUDE": -77.47458, "STATE": "VA", "POP_1860": 37910, "LATITUDE": 37.53105}}
+]}
