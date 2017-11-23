@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.2977181, 36.7573697]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 0, "OBJECTID": 1, "AREA": 0, "Y_COORD": 4068742.2, "X_COORD": 384165.46}},
+{"geometry": {"type": "Point", "coordinates": [-76.2652936, 36.8384674]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 2001, "OBJECTID": 2, "AREA": 0, "Y_COORD": 4077700.2, "X_COORD": 387178.84}},
+{"geometry": {"type": "Point", "coordinates": [-76.3468817, 36.8557454]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 1998, "OBJECTID": 3, "AREA": 0, "Y_COORD": 4079716.5, "X_COORD": 379930.62}},
+{"geometry": {"type": "Point", "coordinates": [-76.3156651, 36.8564533]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 0, "OBJECTID": 4, "AREA": 0, "Y_COORD": 4079756.2, "X_COORD": 382714.68}},
+{"geometry": {"type": "Point", "coordinates": [-76.3472642, 36.8842971]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 2000, "OBJECTID": 5, "AREA": 0, "Y_COORD": 4082884.5, "X_COORD": 379941.21}},
+{"geometry": {"type": "Point", "coordinates": [-76.3201362, 36.9037112]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 1998, "OBJECTID": 6, "AREA": 0, "Y_COORD": 4085004.5, "X_COORD": 382388.59}},
+{"geometry": {"type": "Point", "coordinates": [-76.3014264, 36.9043863]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 1999, "OBJECTID": 7, "AREA": 0, "Y_COORD": 4085056.5, "X_COORD": 384056.56}},
+{"geometry": {"type": "Point", "coordinates": [-76.5758588, 37.0639931]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 1993, "OBJECTID": 8, "AREA": 0, "Y_COORD": 4103132.7, "X_COORD": 359899}},
+{"geometry": {"type": "Point", "coordinates": [-76.6310022, 37.1222958]}, "type": "Feature", "properties": {"PERIMETER": 0, "YEAR_": 1995, "OBJECTID": 9, "AREA": 0, "Y_COORD": 4109684, "X_COORD": 355107.21}}
+]}
