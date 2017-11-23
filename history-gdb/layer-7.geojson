@@ -1,7 +1,0 @@
-{"type":"FeatureCollection","features":[
-{"geometry": {"type": "Point", "coordinates": [-76.5728527, 36.7622826]}, "type": "Feature", "properties": {"lat": 36.7833, "long": -76.5606, "ID": 16, "OBJECTID": 1, "location": "Nansemond River, Brock Point [Chuckatuck]"}},
-{"geometry": {"type": "Point", "coordinates": [-76.2876099, 36.8216529]}, "type": "Feature", "properties": {"lat": 36.846, "long": -76.2926, "ID": 15, "OBJECTID": 2, "location": "Elizabeth River right bank of Southern Branch [Norfolk South]"}},
-{"geometry": {"type": "Point", "coordinates": [-76.7665, 37.1009]}, "type": "Feature", "properties": {"lat": 37.1009, "long": -76.7665, "ID": 20, "OBJECTID": 3, "location": "Upper Chippokes [Savedge]"}},
-{"geometry": {"type": "Point", "coordinates": [-77.4066302, 37.2351964]}, "type": "Feature", "properties": {"lat": 37.2381, "long": -77.4069, "ID": 17, "OBJECTID": 4, "location": "Appomattox River [Petersburg]"}},
-{"geometry": {"type": "Point", "coordinates": [-77.4358292, 37.5324326]}, "type": "Feature", "properties": {"lat": 37.5343, "long": -77.4511, "ID": 19, "OBJECTID": 5, "location": "Richmond"}}
-]}
