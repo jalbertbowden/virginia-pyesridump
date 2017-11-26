@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4394085, 38.4534399]}, "type": "Feature", "properties": {"OBJECTID": 144, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "H.H. POOLE M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4809868, 38.4741759]}, "type": "Feature", "properties": {"OBJECTID": 145, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "A.G. WRIGHT M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.3971251, 38.4097151]}, "type": "Feature", "properties": {"OBJECTID": 146, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "STAFFORD M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4620072, 38.4519555]}, "type": "Feature", "properties": {"OBJECTID": 147, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "RODNEY E. THOMPSON M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4959132, 38.3668384]}, "type": "Feature", "properties": {"OBJECTID": 148, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "GAYLE M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.3756897, 38.4827951]}, "type": "Feature", "properties": {"OBJECTID": 149, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "HEIM M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4181726, 38.3350485]}, "type": "Feature", "properties": {"OBJECTID": 150, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "DIXON-SMITH M.S.", "Address": null, "Include": 0, "Type": "MS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4596637, 38.3459553]}, "type": "Feature", "properties": {"OBJECTID": 151, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "DREW M.S.", "Address": null, "Include": 0, "Type": "MS"}}
+]}

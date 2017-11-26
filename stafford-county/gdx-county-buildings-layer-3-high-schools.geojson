@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4989102, 38.4577903]}, "type": "Feature", "properties": {"OBJECTID": 139, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "MOUNTAIN VIEW H.S.", "Address": null, "Include": 0, "Type": "HS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4646369, 38.3605965]}, "type": "Feature", "properties": {"OBJECTID": 140, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "STAFFORD H.S.", "Address": null, "Include": 0, "Type": "HS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4509564, 38.4345204]}, "type": "Feature", "properties": {"OBJECTID": 141, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "COLONIAL FORGE H.S.", "Address": null, "Include": 0, "Type": "HS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.3957823, 38.4064564]}, "type": "Feature", "properties": {"OBJECTID": 142, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "BROOKE POINT H.S.", "Address": null, "Include": 0, "Type": "HS"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4559593, 38.4666511]}, "type": "Feature", "properties": {"OBJECTID": 143, "ZIP": null, "Locality": "Stafford", "MailCity": null, "Place": "NORTH STAFFORD H.S.", "Address": null, "Include": 0, "Type": "HS"}}
+]}

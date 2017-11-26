@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4055488, 38.4639253]}, "type": "Feature", "properties": {"OBJECTID_1": 10, "OBJECTID": 11, "ROUTE": "610", "Budget_Yea": 2006, "OBJECTID_12": 1, "Intersecti": "Rt 1, 610"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4120472, 38.4685804]}, "type": "Feature", "properties": {"OBJECTID_1": 14, "OBJECTID": 17, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 2, "Intersecti": "Rt 610, 810"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4141549, 38.470926]}, "type": "Feature", "properties": {"OBJECTID_1": 15, "OBJECTID": 19, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 3, "Intersecti": "Rt 610, 684"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4176187, 38.4745006]}, "type": "Feature", "properties": {"OBJECTID_1": 16, "OBJECTID": 21, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 4, "Intersecti": "Rt 610, 659"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4255492, 38.4756256]}, "type": "Feature", "properties": {"OBJECTID_1": 18, "OBJECTID": 23, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 5, "Intersecti": "Rt 610, 641"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4370802, 38.4737662]}, "type": "Feature", "properties": {"OBJECTID_1": 20, "OBJECTID": 26, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 6, "Intersecti": "Rt 610, 751"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4518418, 38.4717973]}, "type": "Feature", "properties": {"OBJECTID_1": 21, "OBJECTID": 27, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 7, "Intersecti": "Rt 610, 1264"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4607797, 38.4688083]}, "type": "Feature", "properties": {"OBJECTID_1": 22, "OBJECTID": 29, "ROUTE": "610", "Budget_Yea": 2008, "OBJECTID_12": 8, "Intersecti": "Rt 610, 648"}}
+]}

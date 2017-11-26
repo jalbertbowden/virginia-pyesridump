@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.2859287, 38.6349069]}, "type": "Feature", "properties": {"OBJECTID_1": 1, "NAME": "POTOMAC HOSPITAL", "OBJECTID": 1, "ADDRESS": "2300 OPITZ BLVD, WOODBRIDGE"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4857128, 38.3110777]}, "type": "Feature", "properties": {"OBJECTID_1": 2, "NAME": "MARY WASHINGTON HOSPITAL", "OBJECTID": 2, "ADDRESS": "1001 SAM PERRY BLVD, FREDERICKSBURG"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4082844, 38.4143472]}, "type": "Feature", "properties": {"OBJECTID_1": 3, "NAME": "STAFFORD HOSPITAL", "OBJECTID": 3, "ADDRESS": "101 HOSPITAL CENTER BLVD"}}
+]}

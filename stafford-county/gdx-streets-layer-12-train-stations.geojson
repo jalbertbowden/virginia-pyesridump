@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.3825291, 38.3868212]}, "type": "Feature", "properties": {"OBJECTID": 96, "ZIP": 0, "Locality": " ", "MailCity": " ", "Place": "BROOKE (VRE)", "Address": " ", "Include": 0, "Type": "Train Station"}},
+{"geometry": {"type": "Point", "coordinates": [-77.437539, 38.3468581]}, "type": "Feature", "properties": {"OBJECTID": 97, "ZIP": 0, "Locality": " ", "MailCity": " ", "Place": "LEELAND (VRE)", "Address": " ", "Include": 0, "Type": "Train Station"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4569156, 38.2983881]}, "type": "Feature", "properties": {"OBJECTID": 98, "ZIP": 0, "Locality": " ", "MailCity": " ", "Place": "FREDERICKSBURG (AMTRAK/VRE)", "Address": " ", "Include": 0, "Type": "Train Station"}},
+{"geometry": {"type": "Point", "coordinates": [-77.2931125, 38.521685]}, "type": "Feature", "properties": {"OBJECTID": 99, "ZIP": 0, "Locality": " ", "MailCity": " ", "Place": "QUANTICO (AMTRAK/VRE)", "Address": " ", "Include": 0, "Type": "Train Station"}}
+]}

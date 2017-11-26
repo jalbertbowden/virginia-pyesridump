@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4124112, 38.4220297]}, "type": "Feature", "properties": {"ABC": "O", "NAME": "PUBLIC SAFETY CENTER", "OBJECTID": 7, "FIRERESC_I": 14, "X_POINT": -77.41241122, "COMPANY": "S", "LOCALITY": "Stafford", "ZIP": "22554", "CITYZIP": "STAFFORD", "Y_POINT": 38.42202971, "POINT_X": 11794494.0939617, "POINT_Y": 6838589.56355224, "TYPE": "HQ", "FULLADDR": "1225 COURTHOUSE RD", "FIRERESC_": 7}}
+]}

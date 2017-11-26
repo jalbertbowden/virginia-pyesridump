@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.3825291, 38.3868212]}, "type": "Feature", "properties": {"OBJECTID_1": 1, "ZIP": 0, "OBJECTID": 96, "Locality": " ", "MailCity": " ", "Place": "BROOKE (VRE)", "Address": " ", "Include": 0, "Type": "Train Station"}},
+{"geometry": {"type": "Point", "coordinates": [-77.437539, 38.3468581]}, "type": "Feature", "properties": {"OBJECTID_1": 2, "ZIP": 0, "OBJECTID": 97, "Locality": " ", "MailCity": " ", "Place": "LEELAND (VRE)", "Address": " ", "Include": 0, "Type": "Train Station"}}
+]}

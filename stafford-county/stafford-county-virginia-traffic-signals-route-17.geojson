@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4684208, 38.3240144]}, "type": "Feature", "properties": {"OBJECTID_1": 1, "OBJECTID": 1, "ROUTE": "17", "Budget_Yea": 2006, "OBJECTID_12": 1, "Intersecti": "Rt 1, 17, 212"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4793532, 38.3331277]}, "type": "Feature", "properties": {"OBJECTID_1": 25, "OBJECTID": 34, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 2, "Intersecti": "Rt 17, 1001, 1015"}},
+{"geometry": {"type": "Point", "coordinates": [-77.488281, 38.3384301]}, "type": "Feature", "properties": {"OBJECTID_1": 26, "OBJECTID": 38, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 3, "Intersecti": "Rt 17, 1034"}},
+{"geometry": {"type": "Point", "coordinates": [-77.4962488, 38.3432566]}, "type": "Feature", "properties": {"OBJECTID_1": 27, "OBJECTID": 39, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 4, "Intersecti": "Rt 17, 670"}},
+{"geometry": {"type": "Point", "coordinates": [-77.5008832, 38.3474223]}, "type": "Feature", "properties": {"OBJECTID_1": 29, "OBJECTID": 42, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 5, "Intersecti": "Rt 17, 618"}},
+{"geometry": {"type": "Point", "coordinates": [-77.5102269, 38.3545376]}, "type": "Feature", "properties": {"OBJECTID_1": 31, "OBJECTID": 46, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 6, "Intersecti": "Rt 17, 700"}},
+{"geometry": {"type": "Point", "coordinates": [-77.5178438, 38.3588515]}, "type": "Feature", "properties": {"OBJECTID_1": 32, "OBJECTID": 49, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 7, "Intersecti": "Rt 17, 700"}},
+{"geometry": {"type": "Point", "coordinates": [-77.5216755, 38.3647144]}, "type": "Feature", "properties": {"OBJECTID_1": 34, "OBJECTID": 52, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 8, "Intersecti": "Rt 17, 1490"}},
+{"geometry": {"type": "Point", "coordinates": [-77.5293325, 38.3718606]}, "type": "Feature", "properties": {"OBJECTID_1": 35, "OBJECTID": 54, "ROUTE": "17", "Budget_Yea": 2007, "OBJECTID_12": 9, "Intersecti": "Rt 17, 1800"}}
+]}
