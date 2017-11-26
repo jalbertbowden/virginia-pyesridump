@@ -1,0 +1,16 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.811111, 37.810278]}, "type": "Feature", "properties": {"date": 2010, "lat": 37.810278, "long": -77.811111, "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-77.835833, 37.750278]}, "type": "Feature", "properties": {"date": 2000, "lat": 37.750278, "long": -77.835833, "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-77.841111, 37.698056]}, "type": "Feature", "properties": {"date": 1990, "lat": 37.698056, "long": -77.841111, "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.000833, 37.638611]}, "type": "Feature", "properties": {"date": 1980, "lat": 37.638611, "long": -78.000833, "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-77.976389, 37.605556]}, "type": "Feature", "properties": {"date": 1970, "lat": 37.605556, "long": -77.976389, "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-78.106389, 37.516111]}, "type": "Feature", "properties": {"date": 1960, "lat": 37.516111, "long": -78.106389, "OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-78.364722, 37.441111]}, "type": "Feature", "properties": {"date": 1950, "lat": 37.441111, "long": -78.364722, "OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-78.696389, 37.454444]}, "type": "Feature", "properties": {"date": 1940, "lat": 37.454444, "long": -78.696389, "OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-78.658889, 37.436389]}, "type": "Feature", "properties": {"date": 1930, "lat": 37.436389, "long": -78.658889, "OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-78.506389, 37.393889]}, "type": "Feature", "properties": {"date": 1920, "lat": 37.393889, "long": -78.506389, "OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-78.566111, 37.418056]}, "type": "Feature", "properties": {"date": 1910, "lat": 37.418056, "long": -78.566111, "OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-78.548333, 37.438611]}, "type": "Feature", "properties": {"date": 1900, "lat": 37.438611, "long": -78.548333, "OBJECTID": 12}},
+{"geometry": {"type": "Point", "coordinates": [-78.558056, 37.475278]}, "type": "Feature", "properties": {"date": 1890, "lat": 37.475278, "long": -78.558056, "OBJECTID": 13}},
+{"geometry": {"type": "Point", "coordinates": [-78.4975, 37.492778]}, "type": "Feature", "properties": {"date": 1880, "lat": 37.492778, "long": -78.4975, "OBJECTID": 14}}
+]}
