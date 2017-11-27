@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4304228, 37.5344268]}, "type": "Feature", "properties": {"City": "Richmond", "Name": "Courtyard by Marriott", "Zip": 23219, "Image": null, "GlobalID": "1e946c8d-4476-42c2-b713-d0ce6a34973c", "OBJECTID": 4, "Address": "1320 E. Cary St.", "IconType": null, "Description": "About 5 blocks from the Virginia Capital Trail"}},
+{"geometry": {"type": "Point", "coordinates": [-76.8722122, 37.268314]}, "type": "Feature", "properties": {"City": "Williamsburg", "Name": "Chickahominy Riverfront Park -- Camping", "Zip": 23185, "Image": null, "GlobalID": "662f967a-b2e1-45f9-9990-1b40d8ec1440", "OBJECTID": 5, "Address": "1350 John Tyler Memorial Hwy", "IconType": 2, "Description": "Tent sites and RV hookups available"}},
+{"geometry": {"type": "Point", "coordinates": [-77.1867495, 37.3307998]}, "type": "Feature", "properties": {"City": "Charles City", "Name": "Edgewood Plantation", "Zip": 23030, "Image": null, "GlobalID": "06be68d9-3481-4c44-87c2-972a4025052b", "OBJECTID": 6, "Address": "4800 John Tyler Memorial Hwy", "IconType": null, "Description": "Bed & Breakfast."}}
+]}

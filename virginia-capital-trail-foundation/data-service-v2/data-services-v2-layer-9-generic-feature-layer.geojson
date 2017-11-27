@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4287632, 37.5643696]}, "type": "Feature", "properties": {"GenericField2": null, "City": null, "GenericField1": null, "Name": "Richmond", "Zip": null, "Image": null, "MileMarker": null, "OBJECTID": 1, "Address": null, "IconType": null, "Description": null}},
+{"geometry": {"type": "Point", "coordinates": [-76.7119053, 37.2753419]}, "type": "Feature", "properties": {"GenericField2": null, "City": null, "GenericField1": null, "Name": "Williamsburg", "Zip": null, "Image": null, "MileMarker": null, "OBJECTID": 2, "Address": null, "IconType": null, "Description": null}}
+]}

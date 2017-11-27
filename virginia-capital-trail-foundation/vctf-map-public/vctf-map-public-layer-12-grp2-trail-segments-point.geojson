@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4299525, 37.5320937]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 1, "Milepoint": 0, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-77.3111576, 37.4292957]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 1, "Milepoint": 12.8, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-76.7874765, 37.2536914]}, "type": "Feature", "properties": {"ProfileLength": 698.566597636724, "ORIG_FID": 2, "Milepoint": null, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-77.420707, 37.5255109]}, "type": "Feature", "properties": {"ProfileLength": 81.4361004996627, "ORIG_FID": 3, "Milepoint": null, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-77.1665386, 37.3369462]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 4, "Milepoint": 25.7, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-76.9636868, 37.3105104]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 5, "Milepoint": 38.6, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-76.7821765, 37.2278072]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 6, "Milepoint": 51.5, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-77.3735467, 37.4562141]}, "type": "Feature", "properties": {"ProfileLength": 81.4361004996627, "ORIG_FID": 3, "Milepoint": 6.4, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-77.2268766, 37.377103]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 4, "Milepoint": 19.3, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-77.0598973, 37.3408398]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 5, "Milepoint": 32.1, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-76.7949868, 37.2533589]}, "type": "Feature", "properties": {"ProfileLength": 698.566597636724, "ORIG_FID": 2, "Milepoint": 49.4, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-76.8853534, 37.2620564]}, "type": "Feature", "properties": {"ProfileLength": 2580.36416632428, "ORIG_FID": 5, "Milepoint": 44.1, "TRL_PRTN": "Virginia Capitol Trail", "OBJECTID": 12}}
+]}

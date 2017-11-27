@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4208924, 37.5261094]}, "type": "Feature", "properties": {"City": "Richmond", "Name": "Bike Repair Station", "Zip": 23223, "Image": null, "GlobalID": "ffa7f9e4-eb1e-4fee-be65-fd8a3098d582", "OBJECTID": 4, "Address": "2803 DockStreet", "IconType": null, "Description": null}},
+{"geometry": {"type": "Point", "coordinates": [-76.8723431, 37.2652483]}, "type": "Feature", "properties": {"City": "Willamsburg", "Name": "Bike Repair Station", "Zip": 23185, "Image": null, "GlobalID": "248ee9ad-e62d-4658-a25a-f031ef570333", "OBJECTID": 5, "Address": "1350 John Tyler Memorial Hwy", "IconType": null, "Description": null}},
+{"geometry": {"type": "Point", "coordinates": [-76.7792008, 37.2269223]}, "type": "Feature", "properties": {"City": "Williamsburg", "Name": "Bike Rental: James City County Marina", "Zip": 23185, "Image": null, "GlobalID": "883d8162-07a5-4e7f-8823-bcaa5d96d99a", "OBJECTID": 6, "Address": "2054 Jamestown Rd", "IconType": null, "Description": "Bike rentals available at 2 hour, 4 hour, and all day rates"}}
+]}

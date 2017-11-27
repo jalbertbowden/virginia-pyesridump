@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4299525, 37.5320937]}, "type": "Feature", "properties": {"Milepoint": "Mile Marker 51.2", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-76.7821765, 37.2278072]}, "type": "Feature", "properties": {"Milepoint": "Mile Marker 0", "OBJECTID": 2}}
+]}
