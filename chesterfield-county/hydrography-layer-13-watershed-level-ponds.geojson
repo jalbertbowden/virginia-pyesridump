@@ -1,0 +1,16 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.6835247, 37.3834759]}, "type": "Feature", "properties": {"OBJECTID": 1, "GlobalID": "520f313c-d9b0-499c-bf11-497f8cff6bef", "S5": "Y", "S4": "Y", "ChwBmpID": "1", "Name": "ASH20"}},
+{"geometry": {"type": "Point", "coordinates": [-77.6913979, 37.3788371]}, "type": "Feature", "properties": {"OBJECTID": 2, "GlobalID": "5a81d959-c88f-44a8-9247-b2d465b13e9b", "S5": "Y", "S4": "Y", "ChwBmpID": "3", "Name": "ASH30"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7043301, 37.3830903]}, "type": "Feature", "properties": {"OBJECTID": 3, "GlobalID": "4444e56c-c630-4847-a784-4e226aa93645", "S5": "Y", "S4": "Y", "ChwBmpID": "4", "Name": "DRY35"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7069497, 37.3890669]}, "type": "Feature", "properties": {"OBJECTID": 4, "GlobalID": "67602b5b-c816-4915-9b59-eeff3bc10dfa", "S5": "Y", "S4": "Y", "ChwBmpID": "5", "Name": "DRY15"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7152939, 37.4024291]}, "type": "Feature", "properties": {"OBJECTID": 5, "GlobalID": "1035b37c-53d6-48fa-9fb8-6b8ac5c3f51a", "S5": "Y", "S4": "Y", "ChwBmpID": "8", "Name": "WBC10"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7323574, 37.4074586]}, "type": "Feature", "properties": {"OBJECTID": 6, "GlobalID": "8af71d39-ac3e-4934-90a0-5f83e020c3ba", "S5": "Y", "S4": "Y", "ChwBmpID": "9", "Name": "BLM85"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7659442, 37.4367043]}, "type": "Feature", "properties": {"OBJECTID": 7, "GlobalID": "34655c0f-f249-4edb-bc76-2ebc67b553a1", "S5": "Y", "S4": "Y", "ChwBmpID": "13", "Name": "HSP10"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7440475, 37.4669416]}, "type": "Feature", "properties": {"OBJECTID": 8, "GlobalID": "6c186a68-d40f-4798-8866-dab90f758b88", "S5": "Y", "S4": "Y", "ChwBmpID": "20", "Name": "TUR45"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7151136, 37.4812712]}, "type": "Feature", "properties": {"OBJECTID": 9, "GlobalID": "f33e1da4-c4ed-4f8f-a337-ccdb99a5eba7", "S5": "Y", "S4": "Y", "ChwBmpID": "22", "Name": "SWC105"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7213657, 37.4927193]}, "type": "Feature", "properties": {"OBJECTID": 10, "GlobalID": "74d682f6-3d3e-4ed9-8380-c9818555d30a", "S5": "Y", "S4": "Y", "ChwBmpID": "24", "Name": "SWC85"}},
+{"geometry": {"type": "Point", "coordinates": [-77.6730714, 37.493213]}, "type": "Feature", "properties": {"OBJECTID": 11, "GlobalID": "cd89ae90-0320-4154-a718-22f473f4b37e", "S5": "Y", "S4": "Y", "ChwBmpID": "27", "Name": "LTC5"}},
+{"geometry": {"type": "Point", "coordinates": [-77.754471, 37.4484684]}, "type": "Feature", "properties": {"OBJECTID": 12, "GlobalID": "2ceb1755-36b3-4dae-91ad-cebdeb6c9c44", "S5": "Y", "S4": "Y", "ChwBmpID": "4", "Name": ""}},
+{"geometry": {"type": "Point", "coordinates": [-77.6726471, 37.4804598]}, "type": "Feature", "properties": {"OBJECTID": 13, "GlobalID": "48773701-7c09-4d7c-b59b-f846d7275bc4", "S5": "Y", "S4": "Y", "ChwBmpID": "1", "Name": ""}},
+{"geometry": {"type": "Point", "coordinates": [-77.7427855, 37.4480338]}, "type": "Feature", "properties": {"OBJECTID": 14, "GlobalID": "4f7a2faf-4236-4cb8-a87f-ab7633e93c81", "S5": "Y", "S4": "Y", "ChwBmpID": "5", "Name": ""}}
+]}

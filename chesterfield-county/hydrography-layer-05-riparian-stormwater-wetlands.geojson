@@ -1,0 +1,9 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.6683825, 37.4620001]}, "type": "Feature", "properties": {"SRBE": "", "RSWW": "Y", "S5": "", "OBJECTID": 1, "GlobalID": "f1131ffe-ec88-421b-b86c-7ebfbc100a94"}},
+{"geometry": {"type": "Point", "coordinates": [-77.736975, 37.4117161]}, "type": "Feature", "properties": {"SRBE": "", "RSWW": "Y", "S5": "", "OBJECTID": 2, "GlobalID": "d636dabf-9f26-46a7-8adb-8389938c7221"}},
+{"geometry": {"type": "Point", "coordinates": [-77.6985699, 37.4123694]}, "type": "Feature", "properties": {"SRBE": "", "RSWW": "Y", "S5": "", "OBJECTID": 3, "GlobalID": "9973fe5b-8cc1-42a4-8417-3f77d4f2d289"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7363704, 37.4652637]}, "type": "Feature", "properties": {"SRBE": "", "RSWW": "Y", "S5": "", "OBJECTID": 4, "GlobalID": "24ebe075-2983-4bac-a2c6-b28d5e5cb47f"}},
+{"geometry": {"type": "Point", "coordinates": [-77.725339, 37.4228471]}, "type": "Feature", "properties": {"SRBE": "", "RSWW": "Y", "S5": "", "OBJECTID": 5, "GlobalID": "6e2adcc0-6ffb-48b5-bd98-93c8081a1b96"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7488317, 37.4068317]}, "type": "Feature", "properties": {"SRBE": "Y", "RSWW": "", "S5": "", "OBJECTID": 6, "GlobalID": "26f842d5-7add-4229-aee2-6cc3f3d4e322"}},
+{"geometry": {"type": "Point", "coordinates": [-77.7006834, 37.4981864]}, "type": "Feature", "properties": {"SRBE": "", "RSWW": "Y", "S5": "", "OBJECTID": 7, "GlobalID": "ac274121-bf8c-42a7-baed-25d930b6758b"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Polygon", "coordinates": [[[-77.3025023, 37.356191], [-77.3021956, 37.3561879], [-77.3021995, 37.3559431], [-77.3025062, 37.3559462], [-77.3025023, 37.356191]]]}, "type": "Feature", "properties": {"Shape__Area": 7.50654314184239e-08, "Type": "", "GlobalID": "d1ec6250-1095-47c7-ab22-c7bfcfe6d358", "OBJECTID": 1, "Shape__Length": 0.00110288965206747}}
+]}
