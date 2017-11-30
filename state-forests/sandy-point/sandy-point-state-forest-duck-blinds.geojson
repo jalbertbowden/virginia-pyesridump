@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.9350289, 37.6882918]}, "type": "Feature", "properties": {"Latitude": "37\u00b041'17.816\"N", "LONGTUDE": "76\u00b056'6.088\"W", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-76.9292449, 37.6879428]}, "type": "Feature", "properties": {"Latitude": "37\u00b041'16.56\"N", "LONGTUDE": "76\u00b055'45.269\"W", "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-76.9235412, 37.6881556]}, "type": "Feature", "properties": {"Latitude": "37\u00b041'17.333\"N", "LONGTUDE": "76\u00b055'24.741\"W", "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-76.9235912, 37.6849385]}, "type": "Feature", "properties": {"Latitude": "37\u00b041'5.746\"N", "LONGTUDE": "76\u00b055'24.915\"W", "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-76.9224587, 37.6914501]}, "type": "Feature", "properties": {"Latitude": "37\u00b041'29.19\"N", "LONGTUDE": "76\u00b055'20.84\"W", "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-76.9173293, 37.6846263]}, "type": "Feature", "properties": {"Latitude": "37\u00b041'4.626\"N", "LONGTUDE": "76\u00b055'2.378\"W", "OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-76.916537, 37.6813368]}, "type": "Feature", "properties": {"Latitude": "37\u00b040'52.787\"N", "LONGTUDE": "76\u00b054'59.52\"W", "OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-76.9200819, 37.6817082]}, "type": "Feature", "properties": {"Latitude": "37\u00b040'54.12\"N", "LONGTUDE": "76\u00b055'12.285\"W", "OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-76.9137299, 37.6773134]}, "type": "Feature", "properties": {"Latitude": "37\u00b040'38.304\"N", "LONGTUDE": "76\u00b054'49.419\"W", "OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-76.9147201, 37.6747399]}, "type": "Feature", "properties": {"Latitude": "37\u00b040'29.034\"N", "LONGTUDE": "76\u00b054'52.992\"W", "OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-76.9069296, 37.6725081]}, "type": "Feature", "properties": {"Latitude": "37\u00b040'21\"N", "LONGTUDE": "76\u00b054'24.932\"W", "OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-76.9097406, 37.6678028]}, "type": "Feature", "properties": {"Latitude": "37\u00b040'4.064\"N", "LONGTUDE": "76\u00b054'35.051\"W", "OBJECTID": 12}}
+]}
