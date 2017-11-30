@@ -1,0 +1,17 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.2820567, 37.5237453]}, "type": "Feature", "properties": {"Trail": "Coffey/ Multiuse Trails", "Pt_Type": "Parking", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-78.3009572, 37.5159488]}, "type": "Feature", "properties": {"Trail": "Willis/ Multiuse Trails", "Pt_Type": "Picnic Shelter", "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-78.3178918, 37.5162103]}, "type": "Feature", "properties": {"Trail": "None", "Pt_Type": "Canoe Launch", "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.2990885, 37.5275827]}, "type": "Feature", "properties": {"Trail": "None", "Pt_Type": "Swinging Foot Bridge", "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-78.2995729, 37.5159745]}, "type": "Feature", "properties": {"Trail": "None", "Pt_Type": "Boat Launch", "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-78.2759373, 37.5324976]}, "type": "Feature", "properties": {"Trail": "None", "Pt_Type": "Boat Launch", "OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-78.2136869, 37.6197126]}, "type": "Feature", "properties": {"Trail": "Willis River Trail", "Pt_Type": "Parking", "OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-78.2131187, 37.6199879]}, "type": "Feature", "properties": {"Trail": "Willis River Trail", "Pt_Type": "Swinging Foot Bridge", "OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-78.2217326, 37.6182212]}, "type": "Feature", "properties": {"Trail": "None", "Pt_Type": "Monument", "OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-78.2829626, 37.5251457]}, "type": "Feature", "properties": {"Trail": "Cumberland Multiuse Trail", "Pt_Type": "Horse Trailer Parking", "OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-78.2836768, 37.5255006]}, "type": "Feature", "properties": {"Trail": "Cumberland Multiuse Trail", "Pt_Type": "Horse Corral", "OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-78.2608939, 37.5119021]}, "type": "Feature", "properties": {"Trail": "Willis/ Multiuse Trails", "Pt_Type": "Parking", "OBJECTID": 12}},
+{"geometry": {"type": "Point", "coordinates": [-78.2643694, 37.5698408]}, "type": "Feature", "properties": {"Trail": "Willis River Trail", "Pt_Type": "Parking", "OBJECTID": 13}},
+{"geometry": {"type": "Point", "coordinates": [-78.252554, 37.5809275]}, "type": "Feature", "properties": {"Trail": "Willis River Trail", "Pt_Type": "Parking", "OBJECTID": 14}},
+{"geometry": {"type": "Point", "coordinates": [-78.2316534, 37.5848298]}, "type": "Feature", "properties": {"Trail": "Willis River Trail", "Pt_Type": "Parking", "OBJECTID": 15}}
+]}
