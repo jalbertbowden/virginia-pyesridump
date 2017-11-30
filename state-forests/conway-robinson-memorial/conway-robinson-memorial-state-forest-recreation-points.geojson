@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.5881764, 38.8036642]}, "type": "Feature", "properties": {"Name": "Picnic Shelter", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-77.5879703, 38.8032369]}, "type": "Feature", "properties": {"Name": "Parking", "OBJECTID": 2}}
+]}
