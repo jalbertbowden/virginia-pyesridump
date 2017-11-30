@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.0803466, 37.4532562]}, "type": "Feature", "properties": {"Name": "Parking", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-77.0800109, 37.4528132]}, "type": "Feature", "properties": {"Name": "Gate", "OBJECTID": 2}}
+]}
