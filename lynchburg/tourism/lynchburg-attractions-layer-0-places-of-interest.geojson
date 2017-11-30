@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1443877, 37.4136968]}, "type": "Feature", "properties": {"Name": "Lynchburg Museum", "OBJECTID": 1, "Address": "901 COURT ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1404726, 37.4162056]}, "type": "Feature", "properties": {"Name": "Amazement Square", "OBJECTID": 2, "Address": "27 9TH ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1436335, 37.4204779]}, "type": "Feature", "properties": {"Name": "Point of Honor", "OBJECTID": 3, "Address": "112 CABELL ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1354585, 37.4111739]}, "type": "Feature", "properties": {"Name": "Percival's Island Trail and LOVE Sculpture", "OBJECTID": 4, "Address": "1500 CONCORD TNPK"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1967414, 37.3802772]}, "type": "Feature", "properties": {"Name": "Sandusky", "OBJECTID": 5, "Address": "757 SANDUSKY DR"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1699401, 37.4392576]}, "type": "Feature", "properties": {"Name": "Mair Museum of Art", "OBJECTID": 6, "Address": "1 QUINLAN ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1518955, 37.4038568]}, "type": "Feature", "properties": {"Name": "Anne Spencer House and Garden", "OBJECTID": 7, "Address": "1313 PIERCE ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1566614, 37.4145877]}, "type": "Feature", "properties": {"Name": "Old City Cemetery", "OBJECTID": 8, "Address": "401 TAYLOR ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.2679762, 37.3580758]}, "type": "Feature", "properties": {"Name": "Poplar Forest", "OBJECTID": 9, "Address": "1542 BATEMAN BRIDGE RD"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1401942, 37.4152866]}, "type": "Feature", "properties": {"Name": "Riverviews Artspace", "OBJECTID": 10, "Address": "901 JEFFERSON ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1543032, 37.414186]}, "type": "Feature", "properties": {"Name": "Legacy Museum", "OBJECTID": 11, "Address": "403 MONROE ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1442803, 37.4173064]}, "type": "Feature", "properties": {"Name": "Academy Center of the Arts", "OBJECTID": 12, "Address": "600 MAIN ST"}}
+]}
