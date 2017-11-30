@@ -1,0 +1,18 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.669535, 37.4625276]}, "type": "Feature", "properties": {"OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-78.6617022, 37.4648997]}, "type": "Feature", "properties": {"OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-78.647324, 37.4625325]}, "type": "Feature", "properties": {"OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.6531153, 37.4507806]}, "type": "Feature", "properties": {"OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-78.605612, 37.4363777]}, "type": "Feature", "properties": {"OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-78.6387698, 37.4327082]}, "type": "Feature", "properties": {"OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-78.6848686, 37.4371223]}, "type": "Feature", "properties": {"OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-78.6366546, 37.4175417]}, "type": "Feature", "properties": {"OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-78.6643965, 37.4393853]}, "type": "Feature", "properties": {"OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-78.6549962, 37.4300361]}, "type": "Feature", "properties": {"OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-78.6571597, 37.4298718]}, "type": "Feature", "properties": {"OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-78.6719539, 37.4288093]}, "type": "Feature", "properties": {"OBJECTID": 12}},
+{"geometry": {"type": "Point", "coordinates": [-78.6690087, 37.429021]}, "type": "Feature", "properties": {"OBJECTID": 13}},
+{"geometry": {"type": "Point", "coordinates": [-78.6973959, 37.4275203]}, "type": "Feature", "properties": {"OBJECTID": 14}},
+{"geometry": {"type": "Point", "coordinates": [-78.6995872, 37.4274159]}, "type": "Feature", "properties": {"OBJECTID": 15}},
+{"geometry": {"type": "Point", "coordinates": [-78.7249094, 37.4256791]}, "type": "Feature", "properties": {"OBJECTID": 16}}
+]}
