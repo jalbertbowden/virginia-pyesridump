@@ -1,0 +1,9 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"Name": "UNKNOWN", "OBJECTID": 1, "Creator": null, "Hpoly_ID": 1, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 291894.6640625, "Shape.STLength()": 3885.446375028374, "WaterElv": null}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "COLLEGE LAKE", "OBJECTID": 2, "Creator": null, "Hpoly_ID": 2, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 831244.40625, "Shape.STLength()": 6495.868828364558, "WaterElv": null}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "LAKELAND LAKE", "OBJECTID": 3, "Creator": null, "Hpoly_ID": 3, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 406793.93359375, "Shape.STLength()": 3212.0547788979275, "WaterElv": null}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "UNKNOWN", "OBJECTID": 4, "Creator": null, "Hpoly_ID": 4, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 441620.8828125, "Shape.STLength()": 3815.618000522944, "WaterElv": null}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "CLEMMONS LAKE", "OBJECTID": 48, "Creator": null, "Hpoly_ID": 46, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 206220.3671875, "Shape.STLength()": 2235.357787708487, "WaterElv": null}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "MOUNTAIN VIEW LAKE", "OBJECTID": 109, "Creator": null, "Hpoly_ID": 106, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 67585.3203125, "Shape.STLength()": 1079.3450166624712, "WaterElv": null}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "AMERICAN LEGION LAKE", "OBJECTID": 158, "Creator": null, "Hpoly_ID": 155, "DateCreated": null, "Subtype": 4, "Shape.STArea()": 158536.125, "Shape.STLength()": 1948.3681806751144, "WaterElv": null}}
+]}

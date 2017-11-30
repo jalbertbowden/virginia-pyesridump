@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"Name": "JAMES RIVER", "OBJECTID": 525, "Creator": null, "Hpoly_ID": 521, "DateCreated": null, "Subtype": 2, "Shape.STArea()": 39903849.015625, "Shape.STLength()": 203436.68265285014, "WaterElv": null}}
+]}
