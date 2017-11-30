@@ -1,0 +1,20 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.2154658, 37.3979797]}, "type": "Feature", "properties": {"WardPrecinct": "I - 1", "Description": "MOOSE LODGE #715", "OBJECTID": 18, "Location": "2307 LAKESIDE DR"}},
+{"geometry": {"type": "Point", "coordinates": [-79.211652, 37.4384614]}, "type": "Feature", "properties": {"WardPrecinct": "I - 2", "Description": "BEDFORD HILLS SCHOOL", "OBJECTID": 19, "Location": "4330 MORNINGSIDE DR"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1918142, 37.4416555]}, "type": "Feature", "properties": {"WardPrecinct": "I - 3", "Description": "FIRST PRESBYTERIAN CHURCH", "OBJECTID": 20, "Location": "1215 VES RD"}},
+{"geometry": {"type": "Point", "coordinates": [-79.168136, 37.4364516]}, "type": "Feature", "properties": {"WardPrecinct": "I - 4", "Description": "RIVERMONT PRESBYTERIAN CHURCH", "OBJECTID": 21, "Location": "2424 RIVERMONT AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1832473, 37.4389287]}, "type": "Feature", "properties": {"WardPrecinct": "I - 5", "Description": "FIRST CHRISTIAN CHURCH", "OBJECTID": 22, "Location": "3109 RIVERMONT AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1469529, 37.4149537]}, "type": "Feature", "properties": {"WardPrecinct": "II - 1", "Description": "ST PAUL'S EPISCOPAL CHURCH", "OBJECTID": 23, "Location": "605 CLAY ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1511229, 37.4056119]}, "type": "Feature", "properties": {"WardPrecinct": "II - 2", "Description": "ROBERT S. PAYNE SCHOOL", "OBJECTID": 24, "Location": "1201 FLOYD ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1340803, 37.3925842]}, "type": "Feature", "properties": {"WardPrecinct": "II - 3", "Description": "JUBILEE FAMILY CENTER", "OBJECTID": 25, "Location": "1512 FLORIDA AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1676125, 37.4042649]}, "type": "Feature", "properties": {"WardPrecinct": "III - 1", "Description": "LYNCHBURG PUBLIC LIBRARY", "OBJECTID": 26, "Location": "2315 MEMORIAL AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1480687, 37.391052]}, "type": "Feature", "properties": {"WardPrecinct": "II - 4", "Description": "FAIRVIEW CHRISTIAN CHURCH", "OBJECTID": 27, "Location": "2701 CAMPBELL AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1898229, 37.3658223]}, "type": "Feature", "properties": {"WardPrecinct": "III - 3", "Description": "SHEFFIELD ELEMENTARY SCHOOL", "OBJECTID": 28, "Location": "115 KENWOOD PL"}},
+{"geometry": {"type": "Point", "coordinates": [-79.2077872, 37.3542727]}, "type": "Feature", "properties": {"WardPrecinct": "III - 5", "Description": "HERITAGE UNITED METHODIST CHURCH", "OBJECTID": 30, "Location": "582 LEESVILLE RD"}},
+{"geometry": {"type": "Point", "coordinates": [-79.2302868, 37.360902]}, "type": "Feature", "properties": {"WardPrecinct": "IV - 1", "Description": "CORNERSTONE COMMUNITY CHURCH", "OBJECTID": 31, "Location": "525 OLD GRAVES MILL RD"}},
+{"geometry": {"type": "Point", "coordinates": [-79.2021684, 37.3807058]}, "type": "Feature", "properties": {"WardPrecinct": "IV - 2", "Description": "SANDUSKY MIDDLE SCHOOL", "OBJECTID": 32, "Location": "805 CHINOOK PL"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1884694, 37.3918612]}, "type": "Feature", "properties": {"WardPrecinct": "IV - 3", "Description": "PERRYMONT FELLOWSHIP HALL", "OBJECTID": 33, "Location": "114 PERRYMONT AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1931043, 37.4166363]}, "type": "Feature", "properties": {"WardPrecinct": "IV - 4", "Description": "LINKHORNE MIDDLE SCHOOL", "OBJECTID": 34, "Location": "2525 LINKHORNE DR"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1810725, 37.3488714]}, "type": "Feature", "properties": {"WardPrecinct": "III - 2", "Description": "THE VINES CENTER", "OBJECTID": 35, "Location": "2001 UNIVERSITY BLVD"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1939906, 37.3611534]}, "type": "Feature", "properties": {"WardPrecinct": "III - 4", "Description": "FIRST CHURCH OF THE NAZARENE", "OBJECTID": 43, "Location": "1737 WARDS FERRY RD"}}
+]}
