@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.1089654, 37.7876777]}, "type": "Feature", "properties": {"Name": "Parking", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-77.1220501, 37.8085631]}, "type": "Feature", "properties": {"Name": "Parking", "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-77.1209963, 37.8059132]}, "type": "Feature", "properties": {"Name": "Parking", "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-77.1207767, 37.8090932]}, "type": "Feature", "properties": {"Name": "Canoe Launch", "OBJECTID": 4}}
+]}
