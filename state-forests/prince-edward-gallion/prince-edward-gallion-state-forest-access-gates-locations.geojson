@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.2855471, 37.1619061]}, "type": "Feature", "properties": {"Id": 0, "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-78.2567416, 37.1834258]}, "type": "Feature", "properties": {"Id": 0, "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-78.2975067, 37.1904671]}, "type": "Feature", "properties": {"Id": 0, "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.2881194, 37.1898119]}, "type": "Feature", "properties": {"Id": 0, "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-78.3080897, 37.1472189]}, "type": "Feature", "properties": {"Id": 0, "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-78.3596707, 37.1890976]}, "type": "Feature", "properties": {"Id": 0, "OBJECTID": 6}}
+]}
