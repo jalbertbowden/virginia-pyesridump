@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"Name": "Zone 46", "OBJECTID": 21, "Creator": "CONWASC", "Year": "2016", "Acreage": 141.75769869, "Shape.STArea()": 6174940.71875, "Shape.STLength()": 19510.284095958294, "DateCreated": 1485204789000}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "Zone 46", "OBJECTID": 22, "Creator": "CONWASC", "Year": "2016", "Acreage": 1002.74929957, "Shape.STArea()": 43679641.09765625, "Shape.STLength()": 89991.40594329248, "DateCreated": 1485204789000}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "Zone 46", "OBJECTID": 23, "Creator": "CONWASC", "Year": "2016", "Acreage": 1068.19594011, "Shape.STArea()": 46530509.53515625, "Shape.STLength()": 92534.92709827758, "DateCreated": 1485204789000}},
+{"geometry": null, "type": "Feature", "properties": {"Name": "Zone 2", "OBJECTID": 24, "Creator": "CONWASC", "Year": "2016", "Acreage": 2199.62463207, "Shape.STArea()": 95815468.30078125, "Shape.STLength()": 367387.6551371365, "DateCreated": 1485204789000}}
+]}
