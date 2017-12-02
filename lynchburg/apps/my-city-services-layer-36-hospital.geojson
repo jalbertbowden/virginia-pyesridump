@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.187751, 37.4384426]}, "type": "Feature", "properties": {"Name": "Virginia Baptist Hospital", "OBJECTID": 9, "Creator": null, "DateModify": 1343390254000, "DateCreated": null, "Link": "http://vbh.centrahealth.com/", "Editor": "LYNCHBURGVA\\conwasc@GIS-SCC1", "Address": "3300 RIVERMONT AVE", "Type": "Hospital"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1716211, 37.417101]}, "type": "Feature", "properties": {"Name": "Lynchburg General Hospital", "OBJECTID": 10, "Creator": null, "DateModify": 1343390268000, "DateCreated": null, "Link": "http://lgh.centrahealth.com/", "Editor": "LYNCHBURGVA\\conwasc@GIS-SCC1", "Address": "1901 TATE SPRINGS RD", "Type": "Hospital"}}
+]}

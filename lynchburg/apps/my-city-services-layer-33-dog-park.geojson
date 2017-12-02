@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1837037, 37.4062031]}, "type": "Feature", "properties": {"Name": "Lynchburg Dog Park", "OBJECTID": 1, "Creator": null, "GlobalID": "{82D478CB-9F10-4ABE-BE9C-93BE436E965B}", "DateModify": 1484320663000, "DateCreated": null, "Phone": null, "Link": "http://www.lynchburgdogpark.com/", "Editor": "GISOWNER", "Address": "515 Monticello Ave"}}
+]}

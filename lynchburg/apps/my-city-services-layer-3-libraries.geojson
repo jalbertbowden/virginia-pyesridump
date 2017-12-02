@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.142562, 37.4140796]}, "type": "Feature", "properties": {"Name": "Lynchburg Public Library - Downtown Branch", "OBJECTID": 32, "Creator": null, "DateModify": 1429537075000, "DateCreated": null, "Link": "http://lynchburgpubliclibrary.org/", "Editor": "GISOWNER", "Address": "900 CHURCH ST", "Type": "Library"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1677442, 37.4041387]}, "type": "Feature", "properties": {"Name": "Lynchburg Public Library", "OBJECTID": 33, "Creator": null, "DateModify": 1429537082000, "DateCreated": null, "Link": "http://lynchburgpubliclibrary.org/", "Editor": "GISOWNER", "Address": "2315 MEMORIAL AVE", "Type": "Library"}}
+]}

@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1100344, 37.3945005]}, "type": "Feature", "properties": {"Website": "http://www.region2000servicesauthority.org/locations.html", "Name": "Concord Turnpike Convenience Center", "OBJECTID": 1, "Creator": null, "DateModify": null, "DateCreated": null, "Phone": "(434) 455 - 6086", "Editor": null, "Address": "2525 Concord Turnpike, Lynchbburg, Virginia 24504", "Email": "servicesauthority@region2000.org"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1635854, 37.280261]}, "type": "Feature", "properties": {"Website": "http://www.region2000servicesauthority.org/locations.html", "Name": "Region 2000 Services Authority", "OBJECTID": 2, "Creator": null, "DateModify": null, "DateCreated": null, "Phone": "(434) 455 - 6086", "Editor": null, "Address": "361 Livestock Rd, Rustburg, Virginia 24588", "Email": "servicesauthority@region2000.org"}}
+]}

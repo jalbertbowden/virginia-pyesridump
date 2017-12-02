@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1660505, 37.4074133]}, "type": "Feature", "properties": {"Name": "E.C. Glass High School", "OBJECTID": 15, "PhoneNumber": "(434) 515-5370", "Address": "2111 MEMORIAL AVE", "Link": "http://www.lcsedu.net/schools/ecg/", "Type": "High School", "Email": null}},
+{"geometry": {"type": "Point", "coordinates": [-79.2066503, 37.3635816]}, "type": "Feature", "properties": {"Name": "Heritage High School", "OBJECTID": 16, "PhoneNumber": "(434) 515-5400", "Address": "3020 WARDS FERRY RD", "Link": "http://www.lcsedu.net/schools/hhs/", "Type": "High School", "Email": null}}
+]}

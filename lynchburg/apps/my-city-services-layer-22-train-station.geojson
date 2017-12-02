@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1570764, 37.4064528]}, "type": "Feature", "properties": {"Name": "Kemper Street Station", "OBJECTID": 53, "Creator": "CONWASC", "DateModify": 1427914925000, "DateCreated": 1427914892000, "Link": "http://www.lynchburgva.gov/amtrak-passenger-train-service", "Editor": "CONWASC", "Address": "825 KEMPER ST", "Type": "Other"}}
+]}

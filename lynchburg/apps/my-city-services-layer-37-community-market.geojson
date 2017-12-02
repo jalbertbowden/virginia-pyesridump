@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1400717, 37.411726]}, "type": "Feature", "properties": {"Name": "Community Market", "OBJECTID": 37, "Creator": null, "DateModify": 1434130999000, "DateCreated": null, "Link": "http://www.lynchburgcommunitymarket.com/", "Editor": "CONWASC", "Address": "1219 MAIN ST", "Type": "Other"}}
+]}

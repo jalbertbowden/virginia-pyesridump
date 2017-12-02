@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"School_Address": "1200 POLK ST", "School_Link": "http://www.lcsedu.net/schools/dms/", "OBJECTID": 2, "District": "PL DUNBAR MIDDLE", "Creator": null, "GlobalID": "{A26CBCF1-4A13-4B93-8E9B-856C34F13B45}", "DateCreated": null, "Shape.STArea()": 202942473.84375, "Shape.STLength()": 118011.86559300656, "Slzmn_ID": null}},
+{"geometry": null, "type": "Feature", "properties": {"School_Address": "2525 LINKHORNE DR", "School_Link": "http://www.lcsedu.net/schools/lms/", "OBJECTID": 1, "District": "LINKHORNE MIDDLE", "Creator": null, "GlobalID": "{4AD7D9C2-5D61-41EA-86BC-FB216E7046D6}", "DateCreated": null, "Shape.STArea()": 559589359.234375, "Shape.STLength()": 157611.1262830945, "Slzmn_ID": null}},
+{"geometry": null, "type": "Feature", "properties": {"School_Address": "805 CHINOOK PL", "School_Link": "http://www.lcsedu.net/schools/sms/", "OBJECTID": 4804, "District": "SANDUSKY MIDDLE", "Creator": null, "GlobalID": "{B9ECB9D9-BAFC-40F0-A633-28C5BEBA9C4A}", "DateCreated": null, "Shape.STArea()": 616114283.546875, "Shape.STLength()": 173955.0031052645, "Slzmn_ID": null}}
+]}

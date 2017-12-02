@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1443416, 37.4136822]}, "type": "Feature", "properties": {"Name": "Lynchburg Museum", "OBJECTID": 3, "Creator": null, "DateModify": 1343389796000, "DateCreated": null, "Link": "http://www.lynchburgmuseum.org/history/index.php", "Editor": "LYNCHBURGVA\\conwasc@GIS-SCC1", "Address": "901 COURT ST", "Type": "Museum - Public"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1439191, 37.4206225]}, "type": "Feature", "properties": {"Name": "Point of Honor Museum", "OBJECTID": 4, "Creator": null, "DateModify": 1343389819000, "DateCreated": null, "Link": "http://www.pointofhonor.org/", "Editor": "LYNCHBURGVA\\conwasc@GIS-SCC1", "Address": "112 CABELL ST", "Type": "Museum - Public"}}
+]}

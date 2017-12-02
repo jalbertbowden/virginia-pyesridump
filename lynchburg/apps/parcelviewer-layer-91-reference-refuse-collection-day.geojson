@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"DayofWeek": "TUESDAY", "OBJECTID": 1, "Creator": null, "TruckRouteNumber": "All", "DateCreated": null, "Shape.STArea()": 451694990.9453125, "Shape.STLength()": 124303.34930481261}},
+{"geometry": null, "type": "Feature", "properties": {"DayofWeek": "MONDAY", "OBJECTID": 2, "Creator": null, "TruckRouteNumber": "All", "DateCreated": null, "Shape.STArea()": 201509913.21484375, "Shape.STLength()": 87660.34321835823}},
+{"geometry": null, "type": "Feature", "properties": {"DayofWeek": "THURSDAY", "OBJECTID": 3, "Creator": null, "TruckRouteNumber": "All", "DateCreated": null, "Shape.STArea()": 484756892.18359375, "Shape.STLength()": 122186.96859394782}},
+{"geometry": null, "type": "Feature", "properties": {"DayofWeek": "TUESDAY / FRIDAY", "OBJECTID": 4, "Creator": null, "TruckRouteNumber": null, "DateCreated": null, "Shape.STArea()": 3589841.3359375, "Shape.STLength()": 8913.923101214605}},
+{"geometry": null, "type": "Feature", "properties": {"DayofWeek": "WEDNESDAY", "OBJECTID": 5, "Creator": null, "TruckRouteNumber": "All", "DateCreated": null, "Shape.STArea()": 231405720.45703125, "Shape.STLength()": 112316.17143947964}}
+]}

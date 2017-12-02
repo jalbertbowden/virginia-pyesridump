@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 1, "Creator": null, "DateCreated": null, "Floodway": "FLOODWAY", "Shape.STArea()": 90560.7734375, "Shape.STLength()": 2629.0459349231082}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 2, "Creator": null, "DateCreated": null, "Floodway": "FLOODWAY", "Shape.STArea()": 289870.328125, "Shape.STLength()": 4099.51705346416}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 3, "Creator": null, "DateCreated": null, "Floodway": "FLOODWAY", "Shape.STArea()": 11952546.86328125, "Shape.STLength()": 165328.8283879814}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 4, "Creator": null, "DateCreated": null, "Floodway": "FLOODWAY", "Shape.STArea()": 8499082.86328125, "Shape.STLength()": 85897.91993341543}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 5, "Creator": null, "DateCreated": null, "Floodway": "FLOODWAY", "Shape.STArea()": 16417286.08203125, "Shape.STLength()": 149508.13885424056}}
+]}

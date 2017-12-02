@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"School_Address": "2111 MEMORIAL AVE", "School_Link": "http://www.lcsedu.net/schools/ecg/", "OBJECTID": 3606, "District": "E C GLASS HIGH", "Creator": null, "GlobalID": "{6102B5BF-8837-4D0A-9F61-01094C2CE863}", "DateCreated": null, "Slznh_ID": null, "Shape.STArea()": 643186301.2695312, "Shape.STLength()": 161224.2819080632}},
+{"geometry": null, "type": "Feature", "properties": {"School_Address": "3020 WARDS FERRY RD", "School_Link": "http://www.lcsedu.net/schools/hhs/", "OBJECTID": 3620, "District": "HERITAGE HIGH", "Creator": null, "GlobalID": "{3EA8B1C8-497A-41D0-A29D-892A7DFD3F81}", "DateCreated": null, "Slznh_ID": null, "Shape.STArea()": 735492046.796875, "Shape.STLength()": 197269.97545111232}}
+]}

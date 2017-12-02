@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1930441, 37.416509]}, "type": "Feature", "properties": {"Name": "Linkhorne Middle School", "OBJECTID": 12, "PhoneNumber": "(434) 515-5330", "Address": "2525 LINKHORNE DR", "Link": "http://www.lcsedu.net/schools/lms/", "Type": "Middle School", "Email": null}},
+{"geometry": {"type": "Point", "coordinates": [-79.1474109, 37.407712]}, "type": "Feature", "properties": {"Name": "P.L. Dunbar Middle School", "OBJECTID": 13, "PhoneNumber": "(434) 515-5310", "Address": "1200 POLK ST", "Link": "http://www.lcsedu.net/schools/dms/", "Type": "Middle School", "Email": null}},
+{"geometry": {"type": "Point", "coordinates": [-79.202628, 37.3798067]}, "type": "Feature", "properties": {"Name": "Sandusky Middle School", "OBJECTID": 14, "PhoneNumber": "(434) 515-5350", "Address": "805 CHINOOK PL", "Link": "http://www.lcsedu.net/schools/sms/", "Type": "Middle School", "Email": null}}
+]}
