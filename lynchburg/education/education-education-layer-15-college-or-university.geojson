@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1719221, 37.4372376]}, "type": "Feature", "properties": {"Link": "http://www.randolphcollege.edu/", "Type": "Private", "Name": "Randolph College", "OBJECTID": 1, "Address": "2500 RIVERMONT AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1841573, 37.3989842]}, "type": "Feature", "properties": {"Link": "http://www.lynchburg.edu/", "Type": "Private", "Name": "Lynchburg College", "OBJECTID": 2, "Address": "1501 LAKESIDE DR"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1774855, 37.3534016]}, "type": "Feature", "properties": {"Link": "http://www.liberty.edu/", "Type": "Private", "Name": "Liberty University", "OBJECTID": 3, "Address": "1971 UNIVERSITY BLVD"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1516251, 37.3952091]}, "type": "Feature", "properties": {"Link": "http://www.vul.edu/", "Type": "Private", "Name": "Virginia University of Lynchburg", "OBJECTID": 4, "Address": "2058 GARFIELD AVE"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1843998, 37.3588608]}, "type": "Feature", "properties": {"Link": "http://www.cvcc.vccs.edu/", "Type": "Public", "Name": "Central Virginia Community College", "OBJECTID": 5, "Address": "3506 WARDS ROAD"}}
+]}
