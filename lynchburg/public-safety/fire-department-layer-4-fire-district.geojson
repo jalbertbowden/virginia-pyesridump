@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 8, "Creator": null, "DateCreated": null, "Fire_District_ID": "2", "SHAPE.STArea()": 680901356.5976562, "SHAPE.STLength()": 202240.24676377836}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 24, "Creator": null, "DateCreated": null, "Fire_District_ID": "1", "SHAPE.STArea()": 698280266.046875, "SHAPE.STLength()": 238208.41289880316}}
+]}

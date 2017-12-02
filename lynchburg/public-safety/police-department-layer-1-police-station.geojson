@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1447363, 37.4140213]}, "type": "Feature", "properties": {"Name": "West Building", "OBJECTID": 8, "Creator": null, "Station_ID": "PD-2", "DateCreated": null, "Phone": null, "Address": "805 COURT ST"}},
+{"geometry": {"type": "Point", "coordinates": [-79.1441667, 37.4134493]}, "type": "Feature", "properties": {"Name": "Public Safety Building", "OBJECTID": 10, "Creator": null, "Station_ID": "PD-1", "DateCreated": null, "Phone": null, "Address": "905 COURT ST"}}
+]}
