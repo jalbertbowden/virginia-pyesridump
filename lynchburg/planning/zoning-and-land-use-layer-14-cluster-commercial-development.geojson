@@ -1,0 +1,13 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 1, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 24733.3359375, "SHAPE.STLength()": 635.9901575269027}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 2, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 154433.75, "SHAPE.STLength()": 2035.0011798560013}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 3, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 321466.21484375, "SHAPE.STLength()": 2558.6957166520865}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 4, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 98038.30859375, "SHAPE.STLength()": 1734.4601749951032}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 5, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 187351.29296875, "SHAPE.STLength()": 1948.3227651132433}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 6, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 189782.43359375, "SHAPE.STLength()": 1954.3549084628676}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 7, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 147399.4921875, "SHAPE.STLength()": 1514.92347233354}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 8, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 451291.2734375, "SHAPE.STLength()": 3445.497631635379}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 9, "Creator": null, "CCD_ID": null, "DateModify": null, "DateCreated": null, "Editor": null, "SHAPE.STArea()": 157265.39453125, "SHAPE.STLength()": 2235.0053656659866}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 10, "Creator": null, "CCD_ID": null, "DateModify": 1408719017000, "DateCreated": null, "Editor": "LYNCHBURGVA\\conwasc@IT-GIS-SCC", "SHAPE.STArea()": 1878433.0625, "SHAPE.STLength()": 6376.352829108728}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 11, "Creator": "FRISCR", "CCD_ID": null, "DateModify": 1427813170000, "DateCreated": 1427813170000, "Editor": "FRISCR", "SHAPE.STArea()": 1169882.98046875, "SHAPE.STLength()": 5706.477068893231}}
+]}

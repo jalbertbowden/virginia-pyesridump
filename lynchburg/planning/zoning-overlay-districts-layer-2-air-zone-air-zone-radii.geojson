@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "LineString", "coordinates": [[-79.1575726, 37.3743327], [-79.1439943, 37.3761395]]}, "type": "Feature", "properties": {"OBJECTID": 1, "Creator": null, "Aznmc_ID": 1, "DateModify": null, "DateCreated": null, "Editor": null, "Shape.STLength()": 3999.99986097128}},
+{"geometry": {"type": "LineString", "coordinates": [[-79.1473276, 37.3970622], [-79.127013, 37.3783954]]}, "type": "Feature", "properties": {"OBJECTID": 3, "Creator": null, "Aznmc_ID": 3, "DateModify": null, "DateCreated": null, "Editor": null, "Shape.STLength()": 9001.512609153506}},
+{"geometry": {"type": "LineString", "coordinates": [[-79.116326, 37.3778176], [-79.1038087, 37.3872414]]}, "type": "Feature", "properties": {"OBJECTID": 8, "Creator": null, "Aznmc_ID": 9, "DateModify": null, "DateCreated": null, "Editor": null, "Shape.STLength()": 5000.001353845621}},
+{"geometry": {"type": "LineString", "coordinates": [[-79.1713562, 37.3514125], [-79.1658621, 37.355602], [-79.1613839, 37.3590146]]}, "type": "Feature", "properties": {"OBJECTID": 12, "Creator": null, "Aznmc_ID": 14, "DateModify": null, "DateCreated": null, "Editor": null, "Shape.STLength()": 4007.8116268388285}}
+]}
