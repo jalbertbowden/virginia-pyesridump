@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": null, "type": "Feature", "properties": {"Designation": null, "GlobalID": "{03B8E883-801B-4EA6-B3E9-7DAD227A86D8}", "Creator": "BOYERSC", "DateModify": 1510773928000, "DateCreated": 1444849303000, "Corpl_ID": null, "Editor": "BOYERSC", "Shape.STArea()": 1379409712.4765625, "Shape.STLength()": 216205.6795505362, "OBJECTID": 802, "Shape_Acres": 31667.099853}}
+]}
