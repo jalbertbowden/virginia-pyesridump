@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.2050192, 37.4396867]}, "type": "Feature", "properties": {"OBJECTID": 749199, "ElapsedMinutes": 0, "longitude": -79.2050163236476, "DeviceFriendlyName": "RC-2           ", "col_X": 11278233.4840268, "col_Y": 3684407.86337341, "recordedDate": 1512032415000, "latitude": 37.4396792551121, "accuracy": 3}}
+]}
