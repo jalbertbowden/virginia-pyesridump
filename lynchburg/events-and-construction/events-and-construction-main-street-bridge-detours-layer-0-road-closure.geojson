@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Polygon", "coordinates": [[[-79.1360746, 37.4079928], [-79.1362046, 37.4079186], [-79.1373586, 37.4092058], [-79.1372287, 37.4092799], [-79.1360746, 37.4079928]]]}, "type": "Feature", "properties": {"SHAPE_Area": 26740.659155788097, "SHAPE_Length": 1245.2237337204256, "LabelText": "CLOSED", "Name": "Main St Bridge", "OBJECTID": 1}}
+]}

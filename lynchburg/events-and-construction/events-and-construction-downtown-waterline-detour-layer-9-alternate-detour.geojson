@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "LineString", "coordinates": [[-79.1438632, 37.4166237], [-79.1452189, 37.4181246]]}, "type": "Feature", "properties": {"DetourName": null, "SHAPE_Length": 673.5322084674353, "Type": "Oneway", "OBJECTID": 7}},
+{"geometry": {"type": "LineString", "coordinates": [[-79.1423054, 37.4148562], [-79.1426009, 37.4151891]]}, "type": "Feature", "properties": {"DetourName": null, "SHAPE_Length": 148.50308915372426, "Type": "Oneway-Short", "OBJECTID": 8}},
+{"geometry": {"type": "LineString", "coordinates": [[-79.1463256, 37.4162905], [-79.145397, 37.4168011]]}, "type": "Feature", "properties": {"DetourName": "Two way traffic", "SHAPE_Length": 327.559863153147, "Type": "Twoway", "OBJECTID": 10}}
+]}
