@@ -1,0 +1,18 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.5031846, 38.0360558]}, "type": "Feature", "properties": {"Completion": 1910, "Demolish_D": 0, "OBJECTID_1": 1, "Name": "Jefferson Statue", "OBJECTID": 2, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5046913, 38.0332812]}, "type": "Feature", "properties": {"Completion": 1907, "Demolish_D": 0, "OBJECTID_1": 2, "Name": "Homer Statue", "OBJECTID": 3, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.50483, 38.0338867]}, "type": "Feature", "properties": {"Completion": 1913, "Demolish_D": 0, "OBJECTID_1": 3, "Name": "Jefferon Statue", "OBJECTID": 4, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5040103, 38.0336006]}, "type": "Feature", "properties": {"Completion": 1919, "Demolish_D": 0, "OBJECTID_1": 4, "Name": "Washington Statue", "OBJECTID": 5, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5028229, 38.0345065]}, "type": "Feature", "properties": {"Completion": 0, "Demolish_D": 0, "OBJECTID_1": 5, "Name": " ", "OBJECTID": 6, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5044926, 38.0357602]}, "type": "Feature", "properties": {"Completion": 0, "Demolish_D": 0, "OBJECTID_1": 6, "Name": " ", "OBJECTID": 7, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5067468, 38.0349783]}, "type": "Feature", "properties": {"Completion": 1938, "Demolish_D": 0, "OBJECTID_1": 7, "Name": "Hume Fountain", "OBJECTID": 8, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5058067, 38.0363732]}, "type": "Feature", "properties": {"Completion": 1917, "Demolish_D": 0, "OBJECTID_1": 8, "Name": "The Aviator", "OBJECTID": 9, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5004336, 38.0344998]}, "type": "Feature", "properties": {"Completion": 0, "Demolish_D": 0, "OBJECTID_1": 9, "Name": " ", "OBJECTID": 10, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5152318, 38.0379609]}, "type": "Feature", "properties": {"Completion": 0, "Demolish_D": 0, "OBJECTID_1": 10, "Name": " ", "OBJECTID": 11, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5134952, 38.035736]}, "type": "Feature", "properties": {"Completion": 1906, "Demolish_D": 0, "OBJECTID_1": 11, "Name": "Civil War Monument", "OBJECTID": 12, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5030769, 38.0359557]}, "type": "Feature", "properties": {"Completion": 1910, "Demolish_D": 0, "OBJECTID_1": 12, "Name": "Sundial", "OBJECTID": 14, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5033733, 38.0361225]}, "type": "Feature", "properties": {"Completion": 1916, "Demolish_D": 0, "OBJECTID_1": 13, "Name": "Flagpole", "OBJECTID": 17, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5029907, 38.0359926]}, "type": "Feature", "properties": {"Completion": 1916, "Demolish_D": 0, "OBJECTID_1": 14, "Name": "Flagpole", "OBJECTID": 18, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.4986662, 38.033306]}, "type": "Feature", "properties": {"Completion": 0, "Demolish_D": 0, "OBJECTID_1": 15, "Name": "George Rogers Clark Statue", "OBJECTID": 19, "Type": " "}},
+{"geometry": {"type": "Point", "coordinates": [-78.5028219, 38.0345157]}, "type": "Feature", "properties": {"Completion": 1921, "Demolish_D": 0, "OBJECTID_1": 16, "Name": "Merton Tower Pinnacle", "OBJECTID": 20, "Type": " "}}
+]}
