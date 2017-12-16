@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-81.3387967, 37.306275]}, "type": "Feature", "properties": {"Name": "Hazmat", "OBJECTID": 1, "Description": "Heavy sheen"}},
+{"geometry": {"type": "Point", "coordinates": [-81.3142202, 37.3064406]}, "type": "Feature", "properties": {"Name": "Pocahontas WTP", "OBJECTID": 2, "Description": "Pump station for Pocahontas WTP"}}
+]}
