@@ -1,0 +1,20 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-81.881481, 37.1993829]}, "type": "Feature", "properties": {"OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-81.881481, 37.1993829]}, "type": "Feature", "properties": {"OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-82.0041272, 37.295083]}, "type": "Feature", "properties": {"OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-82.2864292, 37.0967635]}, "type": "Feature", "properties": {"OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-81.8718402, 37.2258212]}, "type": "Feature", "properties": {"OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-82.1782487, 37.140097]}, "type": "Feature", "properties": {"OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-82.0520544, 37.1845328]}, "type": "Feature", "properties": {"OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-82.0520544, 37.1845328]}, "type": "Feature", "properties": {"OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-82.1273408, 37.0875712]}, "type": "Feature", "properties": {"OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-81.981557, 37.1263683]}, "type": "Feature", "properties": {"OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-81.948888, 37.106851]}, "type": "Feature", "properties": {"OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-82.3381132, 37.0995493]}, "type": "Feature", "properties": {"OBJECTID": 12}},
+{"geometry": {"type": "Point", "coordinates": [-82.3418475, 37.0953728]}, "type": "Feature", "properties": {"OBJECTID": 13}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 14}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 15}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 16}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 17}},
+{"geometry": null, "type": "Feature", "properties": {"OBJECTID": 18}}
+]}
