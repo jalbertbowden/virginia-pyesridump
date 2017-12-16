@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.5589738, 38.0289387]}, "type": "Feature", "properties": {"TYPEID": null, "DESCRIPTION": "blayer desc", "OBJECTID": 1, "TITLE": "blayer", "VISIBLE": 1, "PourPtID": 1}}
+]}
