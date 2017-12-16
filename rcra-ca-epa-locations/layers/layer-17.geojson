@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.454453, 37.545493]}, "type": "Feature", "properties": {"id_name": "VAD000798652_Virginia Commonwealth University", "FolderPath": "Virginia Commonwealth University - Oliver Hall", "Name": "Virginia Commonwealth University - Oliver Hall", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Virginia Commonwealth University - Oliver Hall</b><br><p>Oliver Hall 1001 W. Main St.<br>Richmond VA 23220<br><p>EPA ID #: VAD000798652<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD000798652"}}
+]}

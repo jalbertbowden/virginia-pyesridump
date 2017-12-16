@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.8705264, 38.0911654]}, "type": "Feature", "properties": {"FolderPath": "Genicom Corporation", "Name": "Genicom Corporation", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Genicom Corporation</b><p><br>1 Solutions Way<br>Waynesboro  VA 22980<br><p>EPA ID #: VAD003132438<p><br>", "HasLabel": -1, "AltMode": -1}}
+]}

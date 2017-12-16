@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.9896, 38.4732]}, "type": "Feature", "properties": {"id_name": "VAD003064490_Bingham & Taylor", "FolderPath": "Bingham and Taylor", "Name": "Bingham and Taylor", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Bingham and Taylor</b><br><p>Nalle Place<br>Culpeper VA 22701<br><p>EPA ID #: VAD003064490<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD003064490"}}
+]}

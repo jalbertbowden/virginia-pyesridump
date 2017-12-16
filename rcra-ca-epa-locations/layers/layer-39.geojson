@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.2821851, 37.2907559]}, "type": "Feature", "properties": {"id_name": "VAD003121928_Hercules Inc. - Hopewell Plant", "FolderPath": "Hercules Incorporated - Hopewell Plant", "Name": "Hercules Incorporated - Hopewell Plant", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Hercules Incorporated - Hopewell Plant</b><br><p>1111 Hercules Rd<br>Hopewell VA 23860<br><p>EPA ID #: VAD003121928<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD003121928"}}
+]}

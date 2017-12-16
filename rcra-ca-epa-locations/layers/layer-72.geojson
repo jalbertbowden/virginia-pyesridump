@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.6659593, 36.5419164]}, "type": "Feature", "properties": {"id_name": "VAD046970521_Solite Corporation - VA Solite Division (formerly Virginia Solite)", "FolderPath": "Giant Resource Recovery, Incorporated", "Name": "Giant Resource Recovery, Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Giant Resource Recovery, Incorporated</b><br><p>101 Solite Rd.<br>Cascade VA 24069<br><p>EPA ID #: VAD046970521<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD046970521"}}
+]}

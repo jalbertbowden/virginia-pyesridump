@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.525218, 38.029209]}, "type": "Feature", "properties": {"FolderPath": "The University of Virginia", "Name": "The University of Virginia", "OBJECTID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>The University of Virginia</b><br>Chemistry Bldg McCormick Rd.<br>Charlottesville A 22901<p>EPA ID#: VAD000820712<p>", "HasLabel": -1, "AltMode": -1, "LabelID": 0}}
+]}

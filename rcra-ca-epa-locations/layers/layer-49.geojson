@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-80.1332582, 37.2720932]}, "type": "Feature", "properties": {"id_name": "VAD003125770_Beazer East, Inc. (Koppers Inc.)", "FolderPath": "Beazer East, Incorporated", "Name": "Beazer East, Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Beazer East, Incorporated</b><br><p>4020 Koppers Rd<br>Salem VA 24153<br><p>EPA ID #:VAD003125770<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD003125770"}}
+]}

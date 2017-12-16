@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.36255, 37.486453]}, "type": "Feature", "properties": {"FolderPath": "Fareva Richmond, Incorporated", "Name": "Fareva Richmond, Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Fareva Richmond, Incorporated</b><br>2258 Darbytown Rd<br>Richmond VA 23231<p>EPA ID#: VAD188141626<p>", "HasLabel": -1, "AltMode": -1}}
+]}

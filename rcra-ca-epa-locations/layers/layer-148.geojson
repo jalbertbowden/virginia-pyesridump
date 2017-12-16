@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.86015, 38.457433]}, "type": "Feature", "properties": {"FolderPath": "Intrapac (Harrisonburg), Incorporated", "Name": "Intrapac (Harrisonburg), Incorporated", "OBJECTID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Intrapac (Harrisonburg), Incorporated</b><br>810 North Main St.<br>Harrisonburg VA 22802<p>EPA ID#: VAD000485078<p>", "HasLabel": -1, "AltMode": -1, "LabelID": 0}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4265417, 37.2178951]}, "type": "Feature", "properties": {"id_name": "VAD062355904_Colonial Marble", "FolderPath": "Colonial Marble Products Ltd", "Name": "Colonial Marble Products Ltd", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Colonial Marble Products Ltd</b><br><p>1412 Farmer St<br>Petersburg, VA 23803<br><p>EPA ID #: VAD062355904<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD062355904"}}
+]}

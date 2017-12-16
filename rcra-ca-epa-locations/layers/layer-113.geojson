@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.0168899, 36.7983479]}, "type": "Feature", "properties": {"id_name": "VAD098442148_Controls Corporation of America", "FolderPath": "Temporary Places/Controls Corporation of America", "Name": "Controls Corporation of America", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Controls Corporation of America</b><br><p>1501 Harpers Rd<br>Virginia Beach VA 23454<br><p>EPA ID #: VAD098442148<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD098442148"}}
+]}

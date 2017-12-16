@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.1396825, 37.4406648]}, "type": "Feature", "properties": {"FolderPath": "Amsted Industries - Griffin Pipe Products Company", "Name": "Amsted Industries - Griffin Pipe Products Company", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Amsted Industries - Griffin Pipe Products Company</b><p>Thomas Road & Route 685 (River Road)<br>Madison Heights,  VA 24572<br><p>EPA ID#:  VAD000800532<p>", "HasLabel": -1, "AltMode": -1}}
+]}

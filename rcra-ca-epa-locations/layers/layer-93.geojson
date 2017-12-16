@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-80.3996119, 37.1942072]}, "type": "Feature", "properties": {"id_name": "VAD065408692_Wolverine Gasket Dr.", "FolderPath": "Wolverine Advanced Materials", "Name": "Wolverine Advanced Materials", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Wolverine Advanced Materials</b><br><p>201 Industrial Park Rd.<br>Blacksburg VA 24060<br><p>EPA ID #: VAD065408692<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD065408692"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.8137352, 37.2728487]}, "type": "Feature", "properties": {"id_name": "VAD000737361_Safety Kleen Systems Inc. Vinton", "FolderPath": "Safety-Kleen Systems, Incorporated - Vinton", "Name": "Safety-Kleen Systems, Incorporated - Vinton", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Safety-Kleen Systems, Incorporated - Vinton</b><br><p>16090 Stewartsville Rd.<br>Vinton VA 24179<br><p>EPA ID#: VAD000737361<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD000737361"}}
+]}

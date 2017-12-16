@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.1410173, 37.4631955]}, "type": "Feature", "properties": {"FolderPath": "Chemical Carrier Corporation of Virginia", "Name": "Chemical Carrier Corporation of Virginia", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Chemical Carrier Corporation of Virginia</b><p>Route 600 & 609<br>Roxbury VA 23140<p>EPA ID # VAD000799379<p>", "HasLabel": -1, "AltMode": -1}}
+]}

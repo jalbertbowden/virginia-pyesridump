@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-80.3729472, 37.137853]}, "type": "Feature", "properties": {"id_name": "VAD058913294_Hubbel Lighting Division", "FolderPath": "Temporary Places/Hubbel Lighting Division.kml", "Name": "Hubbel Lighting Division", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Hubbel Lighting Division</b><br><p>2000 Electric Way<br>Christiansburg VA 24073<br><p>EPA ID #: VAD058913294<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD058913294"}}
+]}

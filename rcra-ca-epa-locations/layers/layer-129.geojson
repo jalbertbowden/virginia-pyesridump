@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-80.2704288, 36.6486568]}, "type": "Feature", "properties": {"id_name": "VAD981105521_Hutchens, L E Inc.", "FolderPath": "Hutchens, L E, Incorporated", "Name": "Hutchens, L E, Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Hutchens, L E, Incorporated</b><br><p>1025 Industrial Park<br>Stuart VA 24171<br><p>EPA ID #: VAD981105521<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD981105521"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4285494, 37.4764711]}, "type": "Feature", "properties": {"FolderPath": "International Paper", "Name": "International Paper", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>International Paper</b><p>3400 Deepwater Terminal Rd<br>Richmond VA 23234<p>EPA ID#:  VAD046979498<p>", "HasLabel": -1, "AltMode": -1}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.5845699, 38.7885779]}, "type": "Feature", "properties": {"id_name": "VAD023741705_Atlantic Research Corporation", "FolderPath": "Atlantic Research Corporation", "Name": "Atlantic Research Corporation", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Atlantic Research Corporation</b><br><p>5945 Wellington Rd<br>Gainesville VA 20155<br><p>EPA ID #: VAD023741705<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD023741705"}}
+]}

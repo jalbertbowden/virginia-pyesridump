@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.97968, 38.4787]}, "type": "Feature", "properties": {"id_name": "VAD059174367_The Rochester Corp (Tyco Electronics)", "FolderPath": "The Rochester Corporation", "Name": "The Rochester Corporation", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>The Rochester Corporation</b><br><p>751 Old Brandy Rd.<br>Culpeper VA 22701<br><p>EPA ID #: VAD059174367<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD059174367"}}
+]}

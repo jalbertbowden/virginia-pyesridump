@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.1084744, 37.0315003]}, "type": "Feature", "properties": {"id_name": "VAD044736213_Nevamar Co. LLC (International Paper - Masonite Corp./IP-DPD Asset 1, LLC Waverly)", "FolderPath": "Nevamar Company LLC", "Name": "Nevamar Company LLC", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Nevamar Company LLC</b><br><p>721 West Main St<br>Waverly VA 23890<br><p>EPA ID #: VAD044736213<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD044736213"}}
+]}

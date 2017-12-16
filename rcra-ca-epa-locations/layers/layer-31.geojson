@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.8504726, 36.6888458]}, "type": "Feature", "properties": {"id_name": "VAD003111416_Univar USA Inc. (formerly Prillaman Chemical Corporation)", "FolderPath": "Univar USA Incorporated", "Name": "Univar USA Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Univar USA Incorporated</b><br><p>825 Fisher St.<br>Martinsville VA 24112<br><p>EPA ID #: VAD003111416<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD003111416"}}
+]}

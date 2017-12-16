@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.3545206, 37.5291516]}, "type": "Feature", "properties": {"FolderPath": "Viasystems Technologies Corporation LLC", "Name": "Viasystems Technologies Corporation LLC", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Viasystems Technologies Corporation LLC</b><p>4500 Laburnum Ave<br>Richmond VA 23231<p>EPA ID#:  VAD066000993<p>", "HasLabel": -1, "AltMode": -1}}
+]}

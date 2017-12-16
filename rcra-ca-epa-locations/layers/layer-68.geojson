@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.2078472, 38.7440972]}, "type": "Feature", "properties": {"id_name": "VAD038792966_US Ink A Div. of Sun Chem.", "FolderPath": "US Printing Ink Corporation", "Name": "US Printing Ink Corporation", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>US Printing Ink Corporation</b><br><p>7942-0 Angus Court<br>Springfield VA 22153<br><p>EPA ID #: VAD038792966<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD038792966"}}
+]}

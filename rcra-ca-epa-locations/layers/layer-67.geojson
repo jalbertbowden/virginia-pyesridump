@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.452708, 37.119451]}, "type": "Feature", "properties": {"id_name": "VAD037426228_Industrial Plating Corp", "FolderPath": "Hampton Industrial Plating Site", "Name": "Hampton Industrial Plating Site", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Hampton Industrial Plating Site</b><br><p>109 Industry Dr<br>Tabb VA 23693<br><p>EPA ID #: VAD037426228<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD037426228"}}
+]}

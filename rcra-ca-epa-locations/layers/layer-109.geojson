@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4352893, 38.2592061]}, "type": "Feature", "properties": {"id_name": "VAD091222588_GM Powertrain (GMC Delco)", "FolderPath": "General Motors LLC - Fredericksburg Plant", "Name": "General Motors LLC - Fredericksburg Plant", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>General Motors LLC - Fredericksburg Plant</b><br><p>11032 Tidewater Tr<br>Fredericksburg VA 22408<br><p>EPA ID #: VAD091222588<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD091222588"}}
+]}

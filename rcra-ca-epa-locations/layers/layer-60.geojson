@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-80.5919062, 37.1203469]}, "type": "Feature", "properties": {"id_name": "VAD010063006_Intermet Radford Foundry", "FolderPath": "Intermet Radford Foundry", "Name": "Intermet Radford Foundry", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Intermet Radford Foundry</b><br><p>1605 First St<br>Radford VA 24141<br><p>EPA ID #: VAD010063006<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD010063006"}}
+]}

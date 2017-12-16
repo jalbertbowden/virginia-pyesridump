@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.3224603, 38.0723537]}, "type": "Feature", "properties": {"FolderPath": "US Army Garrison, Fort A.P. Hill", "Name": "US Army Garrison, Fort A.P. Hill", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>US Army Garrison, Fort A.P. Hill</b><p><p>\nUS Rte 301<br>\nFort AP Hill VA 22427<p>\nEPA ID#:  VA2210020416<p>\n", "HasLabel": -1, "AltMode": -1}}
+]}

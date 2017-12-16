@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.2852233, 36.8142902]}, "type": "Feature", "properties": {"id_name": "VAD003180015_Chesapeake Products Inc.", "FolderPath": "Chesapeake Products Incorporated", "Name": "Chesapeake Products Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Chesapeake Products Incorporated</b><br><p>100 Ohio St<br>Chesapeake VA 23324<br><p>EPA ID #:VAD003180015<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD003180015"}}
+]}

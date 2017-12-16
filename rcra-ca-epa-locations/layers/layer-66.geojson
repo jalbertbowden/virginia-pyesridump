@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.9966107, 38.4413357]}, "type": "Feature", "properties": {"id_name": "VAD030341077_Continental Teves Inc. (ITT-Teve)", "FolderPath": "Continental Automotive Systems Incorporated", "Name": "Continental Automotive Systems Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Continental Automotive Systems Incorporated</b><br><p>13456 Lovers Ln<br>Culpeper VA 22701<br><p>EPA ID #: VAD030341077<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD030341077"}}
+]}

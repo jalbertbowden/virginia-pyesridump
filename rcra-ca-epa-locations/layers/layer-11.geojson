@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.5527508, 37.3454297]}, "type": "Feature", "properties": {"FolderPath": "USA Waste of Virginia Landfills, Wheelabrator Landfill", "Name": "USA Waste of Virginia Landfills, Wheelabrator Landfill", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>USA Waste of Virginia Landfills, Wheelabrator Landfill</b><p>3 Abrasive Ave<br>Bedford VA 24523<p>EPA ID #:  VAD000063669<p>", "HasLabel": -1, "AltMode": -1}}
+]}

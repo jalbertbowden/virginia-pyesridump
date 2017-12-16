@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.9975743, 38.4594702]}, "type": "Feature", "properties": {"id_name": "VAD980715064_VDOT Culpeper Dist. Complex", "FolderPath": "VDOT Culpeper District Complex", "Name": "VDOT Culpeper District Complex", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>VDOT Culpeper District Complex</b><br><p>1601 Orange Road<br>Culpeper VA 22701<br><p>EPA ID #: VAD980715064<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD980715064"}}
+]}

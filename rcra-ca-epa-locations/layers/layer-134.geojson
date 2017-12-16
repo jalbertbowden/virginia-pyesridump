@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.330841, 37.5125672]}, "type": "Feature", "properties": {"id_name": "VAD988186599_Reynolds Aviation Division", "FolderPath": "Dominion Corporate Aviation Hangar", "Name": "Dominion Corporate Aviation Hangar", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Dominion Corporate Aviation Hangar</b><br><p>5700 Clarkson Rd.<br>Sandston VA 23150<br><p>EPA ID #: VAD988186599<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD988186599"}}
+]}

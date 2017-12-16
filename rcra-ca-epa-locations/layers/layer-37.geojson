@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.8852605, 38.0599919]}, "type": "Feature", "properties": {"FolderPath": "DuPont Waynesboro", "Name": "DuPont Waynesboro", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>DuPont Waynesboro</b><p>400 Dupont Blvd<br>Waynesboro VA 22980<br><p>EPA ID #: VAD003114832<p>", "HasLabel": -1, "AltMode": -1}}
+]}

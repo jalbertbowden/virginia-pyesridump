@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.2418178, 38.7125775]}, "type": "Feature", "properties": {"id_name": "VAD980830988_D C Department of Corrections", "FolderPath": "D C Department of Corrections", "Name": "D C Department of Corrections", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>D C Department of Corrections</b><br><p>Silverbrook Rd Tower Gate 4<br>Lorton VA  22079<br><p>EPA ID #: VAD980830988<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD980830988"}}
+]}

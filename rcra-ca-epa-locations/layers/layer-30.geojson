@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4469965, 37.4695367]}, "type": "Feature", "properties": {"id_name": "VAD003109360_J. W. Fergusson & Sons, LLC.", "FolderPath": "J.W. Fergusson and Sons, LLC", "Name": "J.W. Fergusson and Sons, LLC", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>J.W. Fergusson and Sons, LLC</b><br><p>4107 Castlewood Rd.<br>Richmond VA 23234<br><p>EPA ID #: VAD003109360<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD003109360"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.5043139, 38.8002604]}, "type": "Feature", "properties": {"id_name": "VAD048565279_Sunoco Partners Marketing & Terminals LP (Mobile Manassas Term.)", "FolderPath": "Former ExxonMobil Manassas Terminal", "Name": "Former ExxonMobil Manassas Terminal", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Former ExxonMobil Manassas Terminal</b><br><p>10315 Balls Ford Rd.<br>Manassas VA 22110<br><p>EPA ID #: VAD048565279<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD048565279"}}
+]}

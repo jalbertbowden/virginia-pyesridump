@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.3670352, 38.0098597]}, "type": "Feature", "properties": {"id_name": "VAD988190021_Hoover Treated Wood Products", "FolderPath": "Temporary Places/Hoover Treated Wood Products.kml", "Name": "Hoover Treated Wood Products", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Hoover Treated Wood Products</b><br><p>18315 House Dr.<br>Milford VA 22514<br><p>EPA ID #: VAD988190021<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD988190021"}}
+]}

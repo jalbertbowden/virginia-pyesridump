@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.3545244, 37.1941779]}, "type": "Feature", "properties": {"id_name": "VAD093561652_Boehringer Ingelheim Chemicals, Inc.", "FolderPath": "Unitao Pharmaceuticals, LLC", "Name": "Unitao Pharmaceuticals, LLC", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Unitao Pharmaceuticals, LLC</b><br><p>2820 N Normandy Dr<br>Petersburg VA 23805<br><p>EPA ID #: VAD093561652<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VAD093561652"}}
+]}

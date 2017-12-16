@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.494707, 38.1431489]}, "type": "Feature", "properties": {"FolderPath": "Cooper Industries, Incorporated", "Name": "Cooper Industries, Incorporated", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>Cooper Industries, Incorporated</b><p>Rte 660<br>Earlysville VA 22936<p>EPA ID #:  VAD023717853<p>", "HasLabel": -1, "AltMode": -1}}
+]}

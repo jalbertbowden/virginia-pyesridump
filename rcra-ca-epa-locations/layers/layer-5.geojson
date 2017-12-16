@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.150418, 38.7030374]}, "type": "Feature", "properties": {"id_name": "VA7213720082_Directorate Pub Works-US Army Fort Belvoir", "FolderPath": "US Army Garrison Fort Belvoir", "Name": "US Army Garrison Fort Belvoir", "LabelID": 0, "OID": 1, "SymbolID": 0, "Snippet": "", "Base": 0, "PopupInfo": "<b>US Army Garrison Fort Belvoir</b><br><p>9430 Jackson Loop-Suite 107<br>Fort Belvoir VA 22060<br><p>EPA ID #: VA7213720082<br><p>", "HasLabel": -1, "AltMode": -1, "epa_id": "VA7213720082"}}
+]}
