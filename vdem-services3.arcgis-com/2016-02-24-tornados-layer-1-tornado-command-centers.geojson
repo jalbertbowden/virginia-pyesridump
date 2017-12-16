@@ -1,6 +1,0 @@
-{"type":"FeatureCollection","features":[
-{"geometry": {"type": "Point", "coordinates": [-77.0917034, 37.0349918]}, "type": "Feature", "properties": {"KeyNum": 2, "Name": "233L S. County Drive, Waverly, VA", "OBJECTID": 1}},
-{"geometry": {"type": "Point", "coordinates": [-78.8303869, 37.3561117]}, "type": "Feature", "properties": {"KeyNum": 3, "Name": "157 Morton Lane, Appomattox, VA 24522", "OBJECTID": 2}},
-{"geometry": {"type": "Point", "coordinates": [-80.5110583, 36.5993513]}, "type": "Feature", "properties": {"KeyNum": 4, "Name": "5082 Ararat Highway, Ararat, VA 24053", "OBJECTID": 3}},
-{"geometry": {"type": "Point", "coordinates": [-76.8610842, 37.928754]}, "type": "Feature", "properties": {"KeyNum": 1, "Name": "202 Church Ln, Tappahanock, VA", "OBJECTID": 4}}
-]}

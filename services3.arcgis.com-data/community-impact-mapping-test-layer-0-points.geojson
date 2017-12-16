@@ -1,5 +1,0 @@
-{"type":"FeatureCollection","features":[
-{"geometry": {"type": "Point", "coordinates": [-76.2465241, 36.7373318]}, "type": "Feature", "properties": {"AssetOrChallenge": "Asset", "Type": "Physical", "Location": "Chesapeake", "OBJECTID": 1, "Description": "River Oak Church"}},
-{"geometry": {"type": "Point", "coordinates": [-76.2317312, 36.6744056]}, "type": "Feature", "properties": {"AssetOrChallenge": "Asset", "Type": null, "Location": "Chesapeake", "OBJECTID": 2, "Description": "Comm"}},
-{"geometry": {"type": "Point", "coordinates": [-76.344036, 36.7719502]}, "type": "Feature", "properties": {"AssetOrChallenge": "Challenge", "Type": "Physical", "Location": "Chesapeake", "OBJECTID": 3, "Description": "No bus facility on Military Highway at George Washington.  No sidewalks in a high speed area"}}
-]}
