@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.4887, 38.03031]}, "type": "Feature", "properties": {"Category": "Needs Improvement", "Name": "Test", "OBJECTID": 1, "Notes": null, "GlobalID": "474db63b-72b1-4a73-bfe5-1ddcec1a5a4e", "Date": 1600114500000}},
+{"geometry": {"type": "Point", "coordinates": [-78.4887, 38.03031]}, "type": "Feature", "properties": {"Category": "Bad Motorist", "Name": "Test", "OBJECTID": 2, "Notes": "Test", "GlobalID": "c892b785-b611-4aba-b4a7-0d6b57266e40", "Date": 1473900742184}}
+]}

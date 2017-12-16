@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-80.5167245, 37.3748188]}, "type": "Feature", "properties": {"Name": " Crossroads", "YCoord": 37.3748114999, "Id": 0, "OBJECTID": 1, "XCoord": -80.5167212499}},
+{"geometry": {"type": "Point", "coordinates": [-80.5193695, 37.3593683]}, "type": "Feature", "properties": {"Name": "Hotel Connector", "YCoord": 37.3593610001, "Id": 0, "OBJECTID": 2, "XCoord": -80.5193662501}},
+{"geometry": {"type": "Point", "coordinates": [-80.5188175, 37.3589096]}, "type": "Feature", "properties": {"Name": "Bear Cliffs", "YCoord": 37.3589022499, "Id": 0, "OBJECTID": 3, "XCoord": -80.51881425}},
+{"geometry": {"type": "Point", "coordinates": [-80.5150924, 37.3695068]}, "type": "Feature", "properties": {"Name": "Moonshine Dell", "YCoord": 37.3694994344, "Id": 0, "OBJECTID": 4, "XCoord": -80.5150890836}},
+{"geometry": {"type": "Point", "coordinates": [-80.5224911, 37.376233]}, "type": "Feature", "properties": {"Name": "John's Creek Trailhead", "YCoord": 37.3762256596, "Id": 0, "OBJECTID": 5, "XCoord": -80.5224878379}},
+{"geometry": {"type": "Point", "coordinates": [-80.5216352, 37.3755484]}, "type": "Feature", "properties": {"Name": "White Pine Trailhead", "YCoord": 37.3755410973, "Id": 0, "OBJECTID": 6, "XCoord": -80.5216318916}},
+{"geometry": {"type": "Point", "coordinates": [-80.5210304, 37.3744305]}, "type": "Feature", "properties": {"Name": "Moonshine Dell Trailhead", "YCoord": 37.3744232061, "Id": 0, "OBJECTID": 7, "XCoord": -80.5210271787}},
+{"geometry": {"type": "Point", "coordinates": [-80.5224512, 37.3740849]}, "type": "Feature", "properties": {"Name": "Pipeline Trailhead", "YCoord": 37.3740775168, "Id": 0, "OBJECTID": 8, "XCoord": -80.5224479132}},
+{"geometry": {"type": "Point", "coordinates": [-80.5237823, 37.3738356]}, "type": "Feature", "properties": {"Name": "Spring Road Trailhead", "YCoord": 37.3738282309, "Id": 0, "OBJECTID": 9, "XCoord": -80.5237790607}},
+{"geometry": {"type": "Point", "coordinates": [-80.5177114, 37.3775733]}, "type": "Feature", "properties": {"Name": "Crazy Rocks", "YCoord": 37.377565988, "Id": 0, "OBJECTID": 10, "XCoord": -80.5177081236}}
+]}

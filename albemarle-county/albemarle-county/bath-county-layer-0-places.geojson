@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-79.6070524, 38.0089631]}, "type": "Feature", "properties": {"GlobalID": "a9e9516f-35ff-4686-8a2e-7d435a7d529f", "User_Name": "Chris", "Id": 0, "OBJECTID": 1, "Place_Name": "Camp"}},
+{"geometry": {"type": "Point", "coordinates": [-79.6136831, 38.0231996]}, "type": "Feature", "properties": {"GlobalID": "3854d56c-7d58-46e2-bbdf-03027ae86b0c", "User_Name": null, "Id": null, "OBJECTID": 2, "Place_Name": null}},
+{"geometry": {"type": "Point", "coordinates": [-79.6145628, 38.0170126]}, "type": "Feature", "properties": {"GlobalID": "c81673bd-4c76-4468-84eb-f21a4674bd0f", "User_Name": null, "Id": null, "OBJECTID": 4, "Place_Name": null}}
+]}

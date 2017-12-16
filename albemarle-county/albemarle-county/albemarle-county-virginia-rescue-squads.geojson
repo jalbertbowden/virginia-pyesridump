@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.474566, 38.0416623]}, "type": "Feature", "properties": {"Active": "Night", "SQUADID": "R01", "SQUAD": "CARS", "FID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-78.6997741, 38.0704771]}, "type": "Feature", "properties": {"Active": "ALL", "SQUADID": "R05", "SQUAD": "WARS", "FID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-78.5285946, 37.8081018]}, "type": "Feature", "properties": {"Active": "ALL", "SQUADID": "R07", "SQUAD": "SVRS", "FID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.4382264, 38.137991]}, "type": "Feature", "properties": {"Active": "ALL", "SQUADID": "R12", "SQUAD": "HOLLYMEAD", "FID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-78.4794943, 38.0828339]}, "type": "Feature", "properties": {"Active": "ALL", "SQUADID": "R08", "SQUAD": "SEMINOLE", "FID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-78.4943386, 37.9970696]}, "type": "Feature", "properties": {"Active": "ALL", "SQUADID": "R11", "SQUAD": "MONTICELLO", "FID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-78.4446681, 38.0220467]}, "type": "Feature", "properties": {"Active": "Day", "SQUADID": "R16", "SQUAD": "PANTOPS", "FID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-78.5503684, 38.0524478]}, "type": "Feature", "properties": {"Active": "Day", "SQUADID": "R15", "SQUAD": "IVY", "FID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-78.4907037, 38.1456306]}, "type": "Feature", "properties": {"Active": "Day", "SQUADID": "R04", "SQUAD": "EARLYSVILLE", "FID": 9}}
+]}

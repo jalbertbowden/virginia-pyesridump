@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.6950009, 38.069357]}, "type": "Feature", "properties": {"STATIONID": "F05", "STATION": "CROZET", "FID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-78.4907037, 38.1456306]}, "type": "Feature", "properties": {"STATIONID": "F04", "STATION": "EARLYSVILLE", "FID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-78.6581379, 37.9559485]}, "type": "Feature", "properties": {"STATIONID": "F03", "STATION": "NORTH GARDEN", "FID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.3776644, 38.0056262]}, "type": "Feature", "properties": {"STATIONID": "F02", "STATION": "EAST RIVANNA", "FID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-78.5048898, 37.8075278]}, "type": "Feature", "properties": {"STATIONID": "F07", "STATION": "SCOTTSVILLE", "FID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-78.4797963, 38.083337]}, "type": "Feature", "properties": {"STATIONID": "F08", "STATION": "SEMINOLE", "FID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-78.3715339, 38.111133]}, "type": "Feature", "properties": {"STATIONID": "F06", "STATION": "STONY POINT", "FID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-78.4943386, 37.9970696]}, "type": "Feature", "properties": {"STATIONID": "F11", "STATION": "MONTICELLO", "FID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-78.4382264, 38.137991]}, "type": "Feature", "properties": {"STATIONID": "F12", "STATION": "HOLLYMEAD", "FID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-78.5503684, 38.0524478]}, "type": "Feature", "properties": {"STATIONID": "F15", "STATION": "IVY", "FID": 10}}
+]}

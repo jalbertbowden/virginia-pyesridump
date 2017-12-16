@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.5222386, 38.0462842]}, "type": "Feature", "properties": {"STATION": "UVA", "ID": 0, "FID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-78.4772565, 38.0301655]}, "type": "Feature", "properties": {"STATION": "CITY", "ID": 0, "FID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-78.4948379, 37.7985329]}, "type": "Feature", "properties": {"STATION": "SCOTTSVILLE", "ID": 0, "FID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-78.5165662, 38.0057511]}, "type": "Feature", "properties": {"STATION": "COUNTY", "ID": 0, "FID": 4}}
+]}
