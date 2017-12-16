@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.4775883, 38.0264731]}, "type": "Feature", "properties": {"OBJECTID": 1, "GlobalID": "769bc0be-893f-49a1-bd0b-697ba4971fec", "Creator": "adarwinian", "EditDate": 1452808822710, "Relfection": "Fox's Diner", "Location": "Belmont", "CreationDate": 1452808822710, "Condition": "Food", "Editor": "adarwinian"}},
+{"geometry": {"type": "Point", "coordinates": [-78.4778911, 38.0267034]}, "type": "Feature", "properties": {"OBJECTID": 2, "GlobalID": "d18058c5-364d-40b3-9927-1cae716dcc8c", "Creator": "adarwinian", "EditDate": 1452808822710, "Relfection": "Community Bikes", "Location": "Belmont", "CreationDate": 1452808822710, "Condition": "Connectvity", "Editor": "adarwinian"}},
+{"geometry": {"type": "Point", "coordinates": [-78.4881561, 38.0284657]}, "type": "Feature", "properties": {"OBJECTID": 3, "GlobalID": "91243929-6b0c-4ce0-96e2-97032a7db11b", "Creator": "adarwinian", "EditDate": 1452808822710, "Relfection": null, "Location": null, "CreationDate": 1452808822710, "Condition": "Noise", "Editor": "adarwinian"}}
+]}

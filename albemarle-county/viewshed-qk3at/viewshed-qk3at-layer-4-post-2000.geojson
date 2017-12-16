@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-78.5046812, 38.0388636]}, "type": "Feature", "properties": {"RADIUS1": 0, "DIRECTION": 120, "RADIUS2": 10000, "OBJECTID": 1, "AZIMUTH1": 40, "AZIMUTH2": 110, "YEAR": 2006, "PLACE": "School of Architecture", "OFFSETA": 5, "OFFSETB": 0, "VERT1": 60, "VERT2": -60}},
+{"geometry": {"type": "Point", "coordinates": [-78.5046029, 38.0389684]}, "type": "Feature", "properties": {"RADIUS1": 0, "DIRECTION": 155, "RADIUS2": 10000, "OBJECTID": 2, "AZIMUTH1": 60, "AZIMUTH2": 160, "YEAR": 2007, "PLACE": "School of Architecture", "OFFSETA": 5, "OFFSETB": 0, "VERT1": 60, "VERT2": -60}}
+]}
