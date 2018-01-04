@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.8870044, 39.0633075]}, "type": "Feature", "properties": {"NAME": "Bluegrass Heliport (9VA5)", "OBJECTID": 1, "FACILITY": "H", "SURFACE": "Paved", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.7500917, 39.2318969]}, "type": "Feature", "properties": {"NAME": "Krens Farm (14VA)", "OBJECTID": 2, "FACILITY": "A", "SURFACE": "Grass", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.6249647, 39.0295315]}, "type": "Feature", "properties": {"NAME": "Goose Hunt Farm Airport (3VA5)", "OBJECTID": 3, "FACILITY": "A", "SURFACE": "Grass", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.5573718, 39.0776894]}, "type": "Feature", "properties": {"NAME": "Leesburg Executive Airport (KJYO)", "OBJECTID": 4, "FACILITY": "A", "SURFACE": "Paved", "TYPE": "Public/Civil", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.477885, 39.0781132]}, "type": "Feature", "properties": {"NAME": " Loudoun Hospital Center Heliport (34VA)", "OBJECTID": 5, "FACILITY": "H", "SURFACE": "Paved", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.6537021, 39.2640716]}, "type": "Feature", "properties": {"NAME": "Scott Airpark (VA61)", "OBJECTID": 6, "FACILITY": "A", "SURFACE": "Grass", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.6561676, 39.2573454]}, "type": "Feature", "properties": {"NAME": "The Grass Patch Airfield (VA62)", "OBJECTID": 7, "FACILITY": "A", "SURFACE": "Grass", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.7776493, 39.0515388]}, "type": "Feature", "properties": {"NAME": "Flying Horse Farm Balloonport (VA60)", "OBJECTID": 8, "FACILITY": "B", "SURFACE": "Grass", "TYPE": "Private", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.4657567, 38.9464807]}, "type": "Feature", "properties": {"NAME": "Washington Dulles International Airport", "OBJECTID": 9, "FACILITY": "A", "SURFACE": "Paved", "TYPE": "Federal", "ID": 0}},
+{"geometry": {"type": "Point", "coordinates": [-77.566808, 39.1195698]}, "type": "Feature", "properties": {"NAME": "Loudoun Hospital Center", "OBJECTID": 10, "FACILITY": "H", "SURFACE": "Paved", "TYPE": "Private", "ID": 0}}
+]}

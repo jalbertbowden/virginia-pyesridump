@@ -1,0 +1,16 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4063268, 39.0197414]}, "type": "Feature", "properties": {"BLDG_NAME": "Visitor's Center", "BLDG_ID": "1", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-77.406035, 39.0194389]}, "type": "Feature", "properties": {"BLDG_NAME": "Education Center", "BLDG_ID": "2", "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-77.403704, 39.0181684]}, "type": "Feature", "properties": {"BLDG_NAME": "Caretaker's Cottage", "BLDG_ID": "3", "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-77.4043098, 39.0178353]}, "type": "Feature", "properties": {"BLDG_NAME": "Frogshackle Nature Center, c. 1700s", "BLDG_ID": "4", "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-77.4039535, 39.0177246]}, "type": "Feature", "properties": {"BLDG_NAME": "Lanesville Ordinary, c. 1779", "BLDG_ID": "5", "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-77.4035339, 39.0173671]}, "type": "Feature", "properties": {"BLDG_NAME": "Barns", "BLDG_ID": "6", "OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-77.4032366, 39.0172541]}, "type": "Feature", "properties": {"BLDG_NAME": "Tenant House, c. 1870", "BLDG_ID": "7", "OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-77.4031621, 39.0175664]}, "type": "Feature", "properties": {"BLDG_NAME": "Bridges' Schoolhouse, c. 1870", "BLDG_ID": "8", "OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-77.404068, 39.0167128]}, "type": "Feature", "properties": {"BLDG_NAME": "Loudoun Heritage Farm Museum", "BLDG_ID": "9", "OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-77.4042428, 39.0123951]}, "type": "Feature", "properties": {"BLDG_NAME": "C.M. Recreation Center", "BLDG_ID": "10", "OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-77.4038656, 39.0133118]}, "type": "Feature", "properties": {"BLDG_NAME": "C.M. Community Center", "BLDG_ID": "11", "OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-77.406377, 39.0154327]}, "type": "Feature", "properties": {"BLDG_NAME": "Pump House", "BLDG_ID": "12", "OBJECTID": 12}},
+{"geometry": {"type": "Point", "coordinates": [-77.4055173, 39.0156345]}, "type": "Feature", "properties": {"BLDG_NAME": "Maintenance Shop", "BLDG_ID": "13", "OBJECTID": 13}},
+{"geometry": {"type": "Point", "coordinates": [-77.4058216, 39.0199113]}, "type": "Feature", "properties": {"BLDG_NAME": "Discovery Grove", "BLDG_ID": "14", "OBJECTID": 14}}
+]}

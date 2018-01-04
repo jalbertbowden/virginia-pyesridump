@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4605317, 38.9919699]}, "type": "Feature", "properties": {"MN_NAME": "Loudoun Gateway", "MN_LOCATION": "Route 606 - Airport", "OBJECTID": 1, "MN_UPD_DATE": 1430784000000}},
+{"geometry": {"type": "Point", "coordinates": [-77.4916119, 39.0053737]}, "type": "Feature", "properties": {"MN_NAME": "Ashburn", "MN_LOCATION": "Route 772 - Moorefield", "OBJECTID": 2, "MN_UPD_DATE": 1430784000000}},
+{"geometry": {"type": "Point", "coordinates": [-77.415036, 38.9606664]}, "type": "Feature", "properties": {"MN_NAME": "Innovation Center", "MN_LOCATION": "Route 28", "OBJECTID": 3, "MN_UPD_DATE": 1430784000000}},
+{"geometry": {"type": "Point", "coordinates": [-77.4481131, 38.9564132]}, "type": "Feature", "properties": {"MN_NAME": "Washington Dulles International Airport", "MN_LOCATION": "Washington Dulles Airport", "OBJECTID": 4, "MN_UPD_DATE": 1430784000000}}
+]}
