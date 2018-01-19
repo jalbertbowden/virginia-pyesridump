@@ -1,0 +1,8 @@
+[Coles Hill](https://www.arcgis.com/home/item.html?id=5b1788a861464a8085fb844adff07922)  
+Multiple layers to communicate information about the issues surrounding the issue of uranium mining in Virginia and Coles Hill specifically  
+
+[North Carolina County Boundaries - NCDOT_CountyBdy_Poly (MapServer)](https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_CountyBdy_Poly/MapServer)  
+Service Description: This map service provides the North Carolina county polygon boundaries with labeling of county name. Other service capabilities include: WMS: https://gis11.services.ncdot.gov/arcgis/services/NCDOT_CountyBdy_Poly/MapServer/WMSServer The NC State County Boundary GIS data set is to provide location information for the North Carolina State and County Boundary lines with best available information to facility at plan siting, impact analysis in the 100 counties of NC. Sources for information are NC Division of Transportation, United States Geological Survey and actual field surveys conducted by North Carolina and South Carolina Licensed Surveyors that have been approved and recoded in their respective counties. This file shows some of the boundaries of counties which have a completed boundary survey but the majority of lines have not been surveyed. Also some boundaries cannot be surveyed in cases where boundaries are coincident with river centers. Most of the lines currently are from the DOT county maps which originally come from USGS but might have been updated by the county parcel maps. Refer to the metadata for this dataset for more information  
+Layers:  
+[County Boundary (0)](https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_CountyBdy_Poly/MapServer/0)
+Copyright Text: NCDOT GIS Unit  
