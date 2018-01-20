@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.3695402, 37.0376156]}, "type": "Feature", "properties": {"STREET": "Freeman Dr", "VEC_NO": null, "TEMP__ROAD": null, "CROSS_STREET": "Armistead Ave", "OBJECTID": 5, "WEATHER": 3, "ROUTE": "2", "CASE_NO": null, "TEMP_OUTSIDE": "25 F", "VEC_OWNER": 99, "AC_TIME": "9:37PM", "COMMENTS": "Reported by QRT: Car in ditch", "GlobalID": "c81c3c60-e5c6-4887-8da6-2ac592876316", "TYPE": 1, "AC_DATE": 1516165200000}}
+]}

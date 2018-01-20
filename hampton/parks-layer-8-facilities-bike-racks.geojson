@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.3425778, 37.0242761]}, "type": "Feature", "properties": {"Id": 1, "OBJECTID": 1, "BikeRackLo": "Next to Oyster Alley"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3415183, 37.0241318]}, "type": "Feature", "properties": {"Id": 2, "OBJECTID": 2, "BikeRackLo": "Behind Hampton Roads Charters"}},
+{"geometry": {"type": "Point", "coordinates": [-76.343034, 37.0264441]}, "type": "Feature", "properties": {"Id": 3, "OBJECTID": 3, "BikeRackLo": "22 Wine St"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3434624, 37.0245399]}, "type": "Feature", "properties": {"Id": 4, "OBJECTID": 4, "BikeRackLo": "Next to Bench in Carousel Park"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3452565, 37.0246496]}, "type": "Feature", "properties": {"Id": 5, "OBJECTID": 5, "BikeRackLo": "Near 555 Settlers Landng Restaurants"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3464628, 37.0244257]}, "type": "Feature", "properties": {"Id": 6, "OBJECTID": 6, "BikeRackLo": "Entrance to History Museum Way"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3463147, 37.0254709]}, "type": "Feature", "properties": {"Id": 7, "OBJECTID": 7, "BikeRackLo": " Next to Gray Goose"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3463086, 37.0252235]}, "type": "Feature", "properties": {"Id": 8, "OBJECTID": 8, "BikeRackLo": "101 W. Queens Way"}},
+{"geometry": {"type": "Point", "coordinates": [-76.344101, 37.0256124]}, "type": "Feature", "properties": {"Id": 9, "OBJECTID": 9, "BikeRackLo": "Sun Trust Bank"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3439653, 37.0257061]}, "type": "Feature", "properties": {"Id": 10, "OBJECTID": 10, "BikeRackLo": "Sun Trust Bank"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3436167, 37.0257352]}, "type": "Feature", "properties": {"Id": 11, "OBJECTID": 11, "BikeRackLo": "32 E. Queens Way"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3433936, 37.0260068]}, "type": "Feature", "properties": {"Id": 12, "OBJECTID": 12, "BikeRackLo": "Alley Way between 21 & 47 E. Queens Way"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3433319, 37.0260399]}, "type": "Feature", "properties": {"Id": 13, "OBJECTID": 13, "BikeRackLo": "Alley Way between 21 & 47 E. Queens Way"}}
+]}

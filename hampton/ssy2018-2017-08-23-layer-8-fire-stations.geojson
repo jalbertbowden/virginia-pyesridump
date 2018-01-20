@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.4304193, 37.0428881]}, "type": "Feature", "properties": {"STATION": 6, "GlobalID": "70230636-b169-4c78-a1d3-5c0e8e0d2131", "OBJECTID": 1}},
+{"geometry": {"type": "Point", "coordinates": [-76.4063573, 37.0181469]}, "type": "Feature", "properties": {"STATION": 9, "GlobalID": "ab8512ec-4bb1-4e88-9368-a7e01ce1c3c9", "OBJECTID": 2}},
+{"geometry": {"type": "Point", "coordinates": [-76.3868847, 37.0513716]}, "type": "Feature", "properties": {"STATION": 10, "GlobalID": "51ea971d-b690-4044-a422-bd80cfc2dfac", "OBJECTID": 3}},
+{"geometry": {"type": "Point", "coordinates": [-76.3790828, 37.0915352]}, "type": "Feature", "properties": {"STATION": 8, "GlobalID": "b92e14d0-971c-4cab-887e-6d90b20a8fa1", "OBJECTID": 4}},
+{"geometry": {"type": "Point", "coordinates": [-76.3293735, 37.055402]}, "type": "Feature", "properties": {"STATION": 7, "GlobalID": "d251cc53-664c-4290-9b41-2994f2b75122", "OBJECTID": 5}},
+{"geometry": {"type": "Point", "coordinates": [-76.3223056, 37.0171611]}, "type": "Feature", "properties": {"STATION": 2, "GlobalID": "fc819b12-507e-4eaa-8833-6bd230d5930e", "OBJECTID": 6}},
+{"geometry": {"type": "Point", "coordinates": [-76.3867524, 36.9987936]}, "type": "Feature", "properties": {"STATION": 3, "GlobalID": "b8549b22-61bf-40b1-8af9-24c7139ee836", "OBJECTID": 7}},
+{"geometry": {"type": "Point", "coordinates": [-76.3530436, 37.0297113]}, "type": "Feature", "properties": {"STATION": 1, "GlobalID": "752a4eb0-40b7-451f-a5a6-76a05850f415", "OBJECTID": 8}},
+{"geometry": {"type": "Point", "coordinates": [-76.2975572, 37.0794715]}, "type": "Feature", "properties": {"STATION": 5, "GlobalID": "1166683f-960a-440f-8067-418c2630854b", "OBJECTID": 9}},
+{"geometry": {"type": "Point", "coordinates": [-76.2956263, 37.0415901]}, "type": "Feature", "properties": {"STATION": 4, "GlobalID": "98bb6c59-c81b-447b-a67c-9c5d9d5e4255", "OBJECTID": 10}},
+{"geometry": {"type": "Point", "coordinates": [-76.343089, 37.0286439]}, "type": "Feature", "properties": {"STATION": 0, "GlobalID": "d75b1e41-4ff7-4243-a759-a7048b6fd8bd", "OBJECTID": 11}},
+{"geometry": {"type": "Point", "coordinates": [-76.3581581, 37.0363743]}, "type": "Feature", "properties": {"STATION": 0, "GlobalID": "04e56407-ade0-4195-a08a-ca29a7035e0f", "OBJECTID": 12}},
+{"geometry": {"type": "Point", "coordinates": [-76.4260392, 37.0713065]}, "type": "Feature", "properties": {"STATION": 11, "GlobalID": "bb30fb46-a2cf-4b25-9ef3-db3f4d92d55a", "OBJECTID": 13}}
+]}

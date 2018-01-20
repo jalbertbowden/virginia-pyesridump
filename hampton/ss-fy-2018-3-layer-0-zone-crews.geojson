@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.4264387, 37.0753001]}, "type": "Feature", "properties": {"Crew_Num": "A1", "GlobalID": "4d5203ad-c67d-45d3-9b28-d597c606e0f5", "Id": 0, "OBJECTID": 1, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.3835209, 37.0706947]}, "type": "Feature", "properties": {"Crew_Num": "A2", "GlobalID": "e2b44736-a691-45f6-a530-f67923b3e671", "Id": 0, "OBJECTID": 2, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.4298012, 37.0480323]}, "type": "Feature", "properties": {"Crew_Num": "A3", "GlobalID": "476b8555-b208-4e46-a05f-3dec89b9d167", "Id": 0, "OBJECTID": 3, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.4048153, 37.0252168]}, "type": "Feature", "properties": {"Crew_Num": "D1", "GlobalID": "ee0fa0a5-21b0-42a3-b79a-35f9f35f683f", "Id": 0, "OBJECTID": 4, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.3670145, 37.0363991]}, "type": "Feature", "properties": {"Crew_Num": "D2", "GlobalID": "9efb3546-2a16-4665-939e-9c5247aab2d9", "Id": 0, "OBJECTID": 5, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.3498679, 37.0379056]}, "type": "Feature", "properties": {"Crew_Num": "B1", "GlobalID": "b2ad3e9f-d368-4bf6-ba69-0f2ad485887b", "Id": 0, "OBJECTID": 6, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.3218452, 37.032031]}, "type": "Feature", "properties": {"Crew_Num": "B2", "GlobalID": "5f470a16-8fce-4c8d-bc28-63d5c3bb5bf1", "Id": 0, "OBJECTID": 7, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.31268, 37.0768546]}, "type": "Feature", "properties": {"Crew_Num": "C1", "GlobalID": "9e179bcb-9185-4488-916e-a9b7a6016b06", "Id": 0, "OBJECTID": 8, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.2990332, 37.0746808]}, "type": "Feature", "properties": {"Crew_Num": "C2", "GlobalID": "dd6f85e9-5289-414c-aec2-0a0d1490e4fd", "Id": 0, "OBJECTID": 9, "Location": " "}},
+{"geometry": {"type": "Point", "coordinates": [-76.3067412, 37.0489885]}, "type": "Feature", "properties": {"Crew_Num": "C3", "GlobalID": "fe416c72-3ba2-4ca0-8f5d-1cbc0e679b7b", "Id": 0, "OBJECTID": 10, "Location": " "}}
+]}

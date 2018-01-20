@@ -1,0 +1,18 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.3617478, 37.0483286]}, "type": "Feature", "properties": {"Incident": "Clear", "Notes": null, "OBJECTID": 1, "GlobalID": "a4a9f9cb-ab53-4280-862c-80e3734aad9d"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3513723, 37.0584991]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 2, "GlobalID": "56642242-d58c-4f53-87cb-55a4fdc6de02"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3996199, 36.9920131]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 3, "GlobalID": "2c87f7d3-d0f5-4a21-9647-99138c85dd3a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.4026455, 37.0014473]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 4, "GlobalID": "c7cb657b-34dc-4984-bb25-18f4b286c265"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3390328, 37.0314629]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 5, "GlobalID": "316e7a18-62dc-465d-8c76-3136942dd08a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.2907154, 37.0828648]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 6, "GlobalID": "c0a1eb38-a406-4994-9669-7ff2751260a0"}},
+{"geometry": {"type": "Point", "coordinates": [-76.2863381, 37.0820431]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 7, "GlobalID": "01dadc91-85ee-4a6d-898a-ab34b7704555"}},
+{"geometry": {"type": "Point", "coordinates": [-76.2942774, 37.0811615]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 9, "GlobalID": "749cc92f-6c1f-4863-868d-88a7074a0114"}},
+{"geometry": {"type": "Point", "coordinates": [-76.2900342, 37.0439324]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 10, "GlobalID": "f7e74589-893f-45ac-b68e-f4645db4eaa8"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3693685, 37.0373339]}, "type": "Feature", "properties": {"Incident": "North_Bound_Only", "Notes": null, "OBJECTID": 11, "GlobalID": "c1cd5047-50ed-4424-973f-cc68f3274ddb"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3690896, 37.0371798]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 12, "GlobalID": "41412b25-ccb3-489b-a5fe-9c577d4dbfbc"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3933046, 37.1086147]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 13, "GlobalID": "2156e28e-0689-4133-8842-a658110c056a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3730056, 36.9997705]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 14, "GlobalID": "389eab03-268f-459b-a2fc-434322b915e7"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3135196, 37.0035449]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 15, "GlobalID": "42156342-d9fd-43a8-89ef-7e78e8cc862a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3704653, 37.0502101]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 16, "GlobalID": "233c6c29-bf1c-4237-bce4-7b34ce52bb84"}},
+{"geometry": {"type": "Point", "coordinates": [-76.3227751, 37.0132581]}, "type": "Feature", "properties": {"Incident": "Flooded_Road", "Notes": null, "OBJECTID": 17, "GlobalID": "6e717185-fd7f-4296-aeb9-85083e30c75e"}}
+]}

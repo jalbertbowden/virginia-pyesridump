@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.4332796, 37.0735272]}, "type": "Feature", "properties": {"Status": "2", "GlobalID": "6b06dd63-531e-495e-8ad0-73d288235d10", "OBJECTID": 1, "Completed_Date": 1500940800000, "Comments": "Test", "Address": null, "Located_Date": 1500854400000}},
+{"geometry": {"type": "Point", "coordinates": [-76.4303104, 37.0468355]}, "type": "Feature", "properties": {"Status": "1", "GlobalID": "b76bc1bc-2914-488b-8f4d-94bab1dac8bc", "OBJECTID": 401, "Completed_Date": 1502928000000, "Comments": "test", "Address": "test", "Located_Date": 1502928000000}},
+{"geometry": {"type": "Point", "coordinates": [-76.3833459, 37.0641239]}, "type": "Feature", "properties": {"Status": null, "GlobalID": "51579109-b078-40b0-9680-b66413395d5f", "OBJECTID": 403, "Completed_Date": null, "Comments": "test", "Address": null, "Located_Date": null}}
+]}

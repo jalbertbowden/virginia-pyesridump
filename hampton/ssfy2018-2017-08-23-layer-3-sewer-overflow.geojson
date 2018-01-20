@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-76.3934682, 37.1003384]}, "type": "Feature", "properties": {"MAG_MHID": 3, "Completed_Date": null, "GlobalID": "80e6e015-db07-4f1f-9a51-98271e03712c", "OBJECTID": 1, "MAG_DB": 1, "MAG_STRC_CD": 1, "ENABLED": 1, "Comments": "test", "Manhole_Status": "2", "MAG_RIM_ELE": 9.58, "NEIGHBOR_DISTRICT": 2, "MAG_CITY_CD": 1, "MAG_MANHOLE": "152-0108", "MAG_GPS": 0, "Located_Date": null, "MAG_DEPTH": 6.15}},
+{"geometry": {"type": "Point", "coordinates": [-76.3723132, 37.0566843]}, "type": "Feature", "properties": {"MAG_MHID": null, "Completed_Date": null, "GlobalID": "9c583263-dd24-4126-9505-2960543c1084", "OBJECTID": 2, "MAG_DB": 0, "MAG_STRC_CD": null, "ENABLED": 0, "Comments": "test", "Manhole_Status": "1", "MAG_RIM_ELE": null, "NEIGHBOR_DISTRICT": null, "MAG_CITY_CD": null, "MAG_MANHOLE": null, "MAG_GPS": 0, "Located_Date": null, "MAG_DEPTH": null}}
+]}
