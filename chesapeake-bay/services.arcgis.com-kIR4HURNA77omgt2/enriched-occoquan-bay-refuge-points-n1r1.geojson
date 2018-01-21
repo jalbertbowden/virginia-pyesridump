@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.2364474, 38.6448548]}, "type": "Feature", "properties": {"TYPEID": 0, "IMAGE_LINK_URL": null, "areaType": "RingBuffer", "aggregationMethod": "BlockApportionment:US.BlockGroups", "DESCRIPTION": null, "OBJECTID": 1, "TITLE": "Point", "TOTHH_CY": 1283, "POP18UP_CY": 2416, "VISIBLE": 1, "bufferUnitsAlias": "Miles", "IMAGE_URL": null, "sourceCountry": "US", "HasData": 1, "DATE": null, "bufferUnits": "esriMiles", "ID": "0", "bufferRadii": 1, "ENRICH_FID": 1}}
+]}
